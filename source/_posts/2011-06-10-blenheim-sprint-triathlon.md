@@ -13,7 +13,7 @@ For a first openwater swim of the season I did fine in the lake, I was pushing i
 
 I was hoping to have a quicker swim and a quicker bike, and probably a quicker run (although the run course is long and slightly hilly, so that's the bit I'm happiest with). I would have liked to have been far closer to 1:20 than I was, the wrong side of 1:30 was just annoying, especially since I probably lost at least 15 seconds in T2 when my stomach just locked up and I couldn't bend down to tie my shoelaces! (oops should have had elastic laces!) 
 
-<img src="/sites/default/files/20110605-IMG_0744.jpg">
+<img src="/images/20110605-IMG_0744.jpg">
 
 <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/90861704'></iframe>
 

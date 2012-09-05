@@ -31,7 +31,7 @@ Final time was 12 hours 17 minutes. I was very happy to pull that out from the d
 
 So, I am now officially an Ironman! It's been a great journey over the last eight months to get here, I won't be doing it again this year, and probably won't do another one abroad next year, but haven't ruled out further challenges. Middle distance triathlon is now officially my favourite though, Long distance is loooooong. Thanks to everyone who has supported me or trained with me!
 
-<img src="/sites/default/files/ironmanfinish.jpg">
+<img src="/images/ironmanfinish.jpg">
 <caption>Ironman! taken by Paul</caption>
 
 I do believe I have the potential to do much better in future, I think I could shave at least 20 minutes off each of the splits with better technique in the swim, better bike fitness and more endurance for the run, but I am proud of what I have achieved and the training that I have done so far - saying I can do better is just accepting that I still have untapped potential and working to reduce my limiters and build on my strengths (such as being able to endure a 12 hour race) will not be a waste - I am still far off my potential peak. 

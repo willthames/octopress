@@ -8,7 +8,7 @@ created: 1276547450
 
 I arrived at Bala at around 4pm on Saturday so that I could registration out of the way and have time to just chill out. Saturday afternoon had glorious weather, the view out onto the lake was awesome. Quite a few people took advantage of the offer to swim the course - I figured I'd just save energy for the race. Lots of Pirates were gathered on the lake front. 
 
-<img src="/sites/default/files/balalake2.jpg">
+<img src="/images/balalake2.jpg">
 
 After checking into my B&B, I rested up for a bit before heading into town where I grabbed a takeaway hawaiian pizza for dinner, eating it up on the castle mound. It was then time for the England v USA match - I found a suitable pub serving real ale and settled down to watch the game. It wasn't particularly enjoyable, and some of the locals cheering USA at the end had a fair point! I stuck to two pints, and made sure I had water later. 
 
@@ -47,7 +47,7 @@ Run: 01:48:03 (344th)
 
 Total time: 05:39:17 (441st out of 662 starters)
 
-<img src="/sites/default/files/balaraceend.jpg">
+<img src="/images/balaraceend.jpg">
 
 I was extremely happy with that time, particularly as I had predicted a 6h30 time - I beat my bike prediction by 20 mins and my run prediction by nearly half an hour! 
 
@@ -61,4 +61,4 @@ This race was intended to be practice for Ironman Switzerland and also to give m
 * Openwater swim practice is important!
 * Don't forget to take run nutrition - I got away with it on the run here, but wouldn't on an IM run!
 
-<img src="/sites/default/files/balafinish3.jpg">
+<img src="/images/balafinish3.jpg">

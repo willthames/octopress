@@ -9,7 +9,7 @@ I wasn't really looking forward to this race. I felt under-prepared (because I w
 However, I had an early night Saturday (I'd had an early night most of the week as jetlag following my return from Australia to be fair) and was up at 6am. Had breakfast and coffee, finished off the last remaining tasks and cycled off to the event. A remarkably quiet ride later, with none of the usual waits at level crossings, and I was in the park, ready to register. I realised after registering that it wasn't even 7.15am, the official opening time. 
 
 It was very pretty though
-<img src="/sites/default/files/duathlonstart1.jpg" align="top"> <img src="/sites/default/files/duathlonstart2.jpg" align="top">
+<img src="/images/duathlonstart1.jpg" align="top"> <img src="/images/duathlonstart2.jpg" align="top">
 
 After registering, I racked my bike, and then had around 90 minutes to relax. So I took some more photos, and just sat and chilled out. With thirty minutes to go, I returned to transition, put on the timing chip, and suncream, put on sunglasses and headed to race start. Watched the elite men start, had a quick warm up jog, and then returned to find my fellow racers being herded into the start pens, so joined them. At 9am prompt, Zac Goldsmith started the race and we were underway. 
 
@@ -34,5 +34,5 @@ It was great to finish and to collect my medal - I was happy with 5:55 overall, 
 From my times, my goals of consistency and injury-free running were well met (although I'm in more pain today) - there is about a minute difference between lap 1 and lap 7 on the bike, and five minutes between lap 1 and lap 3 on the run. 
 
 We took some photos of my scars
-<img src="/sites/default/files/duathlonscar1.jpg"> <img src="/sites/default/files/duathlonscar2.jpg">
+<img src="/images/duathlonscar1.jpg"> <img src="/images/duathlonscar2.jpg">
 
