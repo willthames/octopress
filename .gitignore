@@ -4,7 +4,6 @@
 .gist-cache
 .pygments-cache
 _deploy
-public
 vendor
 node_modules
 sass/base
