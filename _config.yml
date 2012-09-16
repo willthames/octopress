@@ -53,6 +53,9 @@ default_asides: [custom/asides/picture.html, custom/asides/races.html, asides/re
 # post_asides:
 # page_asides:
 
+sidebar_posn: left
+sidebar_width: 3
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
@@ -97,3 +100,4 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
