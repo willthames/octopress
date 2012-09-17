@@ -5,6 +5,7 @@ date: 2012-09-04 21:10
 comments: true
 sharing: true
 footer: true
+sidebar: true
 ---
 I am currently a lapsed Iron-distance triathlete, with Challenge Henley 2011
 and Ironman Zurich 2010 to my name, but no current triathlon plans at all.

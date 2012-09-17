@@ -839,3 +839,18 @@ form.well {
 .tooltip-inner {
 	max-width: 500px;
 }
+
+/* ------ updates for thames.id.au ------- */
+
+.pb { 
+    font-weight: bold;
+}
+
+a, a:hover { 
+    color: darkslategray;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+    color: darkslategray;
+}
+

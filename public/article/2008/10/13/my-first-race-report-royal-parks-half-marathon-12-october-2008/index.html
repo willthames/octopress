@@ -21,7 +21,7 @@
   <link rel="canonical" href="http://thames.localhost/article/2008/10/13/my-first-race-report-royal-parks-half-marathon-12-october-2008">
   <link href="/favicon.ico" rel="icon">
   
-  <link href="/assets/bootstrap/css/spacelab.min.css" rel="stylesheet" type="text/css">
+  <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="/assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
   <link href="/assets/bootstrap/css/custom.css" rel="stylesheet" type="text/css">
   <link href="/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
@@ -36,19 +36,26 @@
 
   <div class="container">
     <header class="jumbotron subhead" id="overview">
-      <div class="subscribe">
+      
+<div class="subscribe">
   <table>
     <tr>
       <td><span>Get Updates: &nbsp;</span></td>
-      <td><a href="#" onclick="window.open('','FeedBurner','menubar=no,width=600,height=600,toolbar=no'); return false;" class="btn"><i class="icon-envelope"></i> By Email</a></td>
+      
+      
       <td><a href="/atom.xml" class="btn"><i class="icon-cog"></i> By RSS</a></td>
+      
+      
       <td><a href="http://twitter.com/willthames" class="btn"><i class="icon-twitter-sign"></i> On Twitter</a></td>
+      
     </tr>
   </table>
 </div>
-<h1 class="title">Will Thames</h1>
+
+<h1 class="title"><a href="/">Will Thames</a></h1>
 
   <p class="lead">swim, bike, run, tech</p>
+
 
       <div class="navbar">
   <div class="navbar-inner">
@@ -60,8 +67,8 @@
       </a>
       <div class="nav-collapse">
         <ul class="nav">
+  <li><a href="/">Home</a></li>
   <li><a href="/page/about-me">About</a></li>
-  <li><a href="/checklists">Checklists</a></li>
   <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
@@ -82,7 +89,80 @@
     </header>
     <div id="main">
       <div id="content">
-        <div class="row-fluid">
+        <div class="row">
+  
+    
+  <div class="span3 sidebar">
+    <div class="well">
+      
+        <section>
+<img src="/images/brismara2012.png">
+</section>
+<section>
+  <h1>Race results</h1>
+  <ul id="race results">
+    <li class="post"><date>02/09/2012</date> Bridge 2 Brisbane 10km <span class="pb">48:14</span></li>
+    <li class="post"><date>05/08/2012</date> Brisbane Marathon <span class="pb">03:30:31</span></li>
+    <li class="post"><date>07/07/2012</date> New Farm Parkrun 5km 22:23</li>
+    <li class="post"><date>30/06/2012</date> Gold Coast Marathon 03:48:29</li>
+    <li class="post"><date>14/04/2012</date> Pinnacles 02:09:34</li>
+    <li class="post"><date>18/09/2011</date> Challenge Henley 12:42:30</li>
+    <li class="post"><date>11/06/2011</date> Richmond Parkrun 5km <span class="pb">22:06</span></li>
+  </ul>
+</section>
+<section>
+  <h2>Recent Posts</h2>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/article/2012/09/02/bridge-to-brisbane-10k/">Bridge to Brisbane 10k</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2012/04/25/graphing-performance/">Graphing performance</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2012/04/03/getting-faster/">Getting faster</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2012/01/01/happy-new-year-now-back-to-it/">Happy New Year - now back to it</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2011/09/20/challenge-henley-and-on/">Challenge Henley and on</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2011/09/13/less-than-one-week-to-henley/">Less than one week to Henley.</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2011/09/05/two-weeks-to-go/">Two weeks to go!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2011/08/16/trustworthy-data/">Trustworthy data</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2011/08/16/5-weeks-until-henley/">5 weeks until Henley</a>
+      </li>
+    
+      <li class="post">
+        <a href="/article/2011/07/18/21-days-of-ironman-training/">21 days of Ironman training</a>
+      </li>
+    
+  </ul>
+</section>
+
+      
+    </div>
+  </div>
+
+
+  
   <div class="span8">
     
   <header>
@@ -180,10 +260,10 @@
       
       <p class="meta">
         
-          <a class="basic-alignment left" href="/article/2008/10/01/what-a-contrast/" title="Previous Post: What a contrast...">&laquo; What a contrast...</a>
+          <a class="basic-alignment pull-left" href="/article/2008/10/01/what-a-contrast/" title="Previous Post: What a contrast...">&laquo; What a contrast...</a>
         
         
-          <a class="basic-alignment right" href="/article/2008/10/14/race-t-shirt-etiquette/" title="Next Post: Race T-shirt etiquette">Race T-shirt etiquette &raquo;</a>
+          <a class="basic-alignment pull-right" href="/article/2008/10/14/race-t-shirt-etiquette/" title="Next Post: Race T-shirt etiquette">Race T-shirt etiquette &raquo;</a>
         
       </p>
     </footer>
@@ -192,87 +272,6 @@
   </div>
 
   
-  <div class="span3 sidebar">
-    <div class="well">
-      
-        <section>
-<img src="/images/brismara2012.png">
-</section>
-<section>
-  <h1>Race results</h1>
-  <ul id="race results">
-    <li class="post"><date>02/09/2012</date> Bridge 2 Brisbane 10km <span class="pb">48:14</span></li>
-    <li class="post"><date>05/08/2012</date> Brisbane Marathon <span class="pb">03:30:31</span></li>
-    <li class="post"><date>07/07/2012</date> New Farm Parkrun 5km 22:23</li>
-    <li class="post"><date>30/06/2012</date> Gold Coast Marathon 03:48:29</li>
-    <li class="post"><date>14/04/2012</date> Pinnacles 02:09:34</li>
-    <li class="post"><date>18/09/2011</date> Challenge Henley 12:42:30</li>
-    <li class="post"><date>11/06/2011</date> Richmond Parkrun 5km <span class="pb">22:06</span></li>
-  </ul>
-</section>
-<section>
-  <h2>Recent Posts</h2>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/article/2012/09/02/bridge-to-brisbane-10k/">Bridge to Brisbane 10k</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2012/04/25/graphing-performance/">Graphing performance</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2012/04/03/getting-faster/">Getting faster</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2012/01/01/happy-new-year-now-back-to-it/">Happy New Year - now back to it</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2011/09/20/challenge-henley-and-on/">Challenge Henley and on</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2011/09/13/less-than-one-week-to-henley/">Less than one week to Henley.</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2011/09/05/two-weeks-to-go/">Two weeks to go!</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2011/08/16/trustworthy-data/">Trustworthy data</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2011/08/16/5-weeks-until-henley/">5 weeks until Henley</a>
-      </li>
-    
-      <li class="post">
-        <a href="/article/2011/07/18/21-days-of-ironman-training/">21 days of Ironman training</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h2>Latest Tweets</h2>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  
-    <a href="http://twitter.com/willthames" class="twitter-follow-button" data-show-count="false">Follow @willthames</a>
-  
-</section>
-
-
-      
-    </div>
-  </div>
-
-
 </div>
 
 
