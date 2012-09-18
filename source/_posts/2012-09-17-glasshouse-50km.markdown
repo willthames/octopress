@@ -72,14 +72,25 @@ I'd round a corner to get a blast of heat.
 
 At checkpoint 2 it was good to take some water on again for the last 5km or so.
 There were some tough times but I bumped into a couple of people on the way
-- noone seemed to be having much fun!
+- noone seemed to be having much fun! There are some questions to be had 
+regarding my hydration strategy at this point - I was drinking plenty but it
+didn't seem to do much good - perhaps I'd have been better pouring some of it
+over my head, especially in light of [recent events](http://www.news.com.au/national/hiker-lost-in-tasmania-died-because-he-drank-too-much-water-finds-coroner/story-fndo4eg9-1226475915282)
 
 The last couple of km seemed to take forever, considering I'd already run the
 same course in the first 10km, but in the end I was caught by surprise by the
 very end as I just wasn't sure how far it was one minute, the next it was 200m
 to go!
 
-I love my souvenir mug!
+In the end it took 6:07:13, two hours longer than the winner. But I can console 
+myself with being middle of presumably a reasonably elite group (there's not
+many people that would start a 50km run), placed 32nd out of 64 starters. Had
+I not had my route error, I would have saved the 20 minutes taken there, and
+any time lost to due to loss of focus at the time. 
+
+I was very happy to finish, and I love my souvenir ultra finishers mug! (the 
+qualifier is important as I think I'd have done far better on the 30km run, 
+but I wouldn't have got the mug!)
 {% img /images/glasshousemug.jpg %}
 
 So. Would I do it again? Yes. I'd hope for a cooler day (but realise I could
@@ -87,3 +98,7 @@ get a warmer day). My goals of going longer in 2013 have been cut back - I may
 well have a couple of cracks at the 50km distance again, but I'll concentrate
 on improving upon that distance before going any longer. And I can definitely
 improve just by trail running more frequently, even at the shorter distances.
+
+And finally, the Garmin data. Obviously the bit where I go 40km/h (and indeed the following km where I go sub 5:00/km for the only time) should be ignored.
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/223118696'></iframe>
