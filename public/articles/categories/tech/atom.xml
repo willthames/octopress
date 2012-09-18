@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | Will Thames]]></title>
+  <link href="http://thames.localhost/articles/categories/tech/atom.xml" rel="self"/>
+  <link href="http://thames.localhost/"/>
+  <updated>2012-09-18T20:03:50+10:00</updated>
+  <id>http://thames.localhost/</id>
+  <author>
+    <name><![CDATA[Will Thames]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tech behind the blog]]></title>
+    <link href="http://thames.localhost/article/2012/09/18/tech-behind-the-blog/"/>
+    <updated>2012-09-18T18:57:00+10:00</updated>
+    <id>http://thames.localhost/article/2012/09/18/tech-behind-the-blog</id>
+    <content type="html"><![CDATA[<p>I've moved the blog from [http://willthames.org.uk] to reflect my new location
+and just for a change of scene really.</p>
+
+<p>I was relatively happy with <a href="http://drupal.org">Drupal</a>'s flexibility
+but just didn't need that much
+power. Also, something a lot simpler means that I can customise it that much
+more easily.</p>
+
+<p>In the end I went with <a href="http://octopress.org">Octopress</a> using the
+<a href="https://github.com/mojombo/jekyll/wiki/blog-migrations">Drupal migration</a>
+for <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+Currently it's only migrated my posts - not my race
+reports or training log. I'll worry about that later. Using octopress allows
+me to store my blog posts in git and then upload them to
+<a href="http://heroku.com/">Heroku</a> - so free blog posting in quite a simple fashion.
+The only thing I don't like about the
+combination is that I have to keep the generated pages under version control,
+but the opportunity to use and learn a bit more about Heroku was more
+compelling than just using github pages.</p>
+
+<p>For theming, I really wanted to keep the left hand bar, and I just couldn't
+easily work out how to do it using octopress's default theme. The
+<a href="https://github.com/barmstrong/octopress-bootstrap">bootstrap theme</a> for
+octopress was a lot easier to customise, mostly because
+<a href="http://twitter.github.com/bootstrap">Bootstrap</a> is so simple to use.
+I've made a few of my own tweaks
+(most of which I've submitted as a pull request) and some simple CSS
+customisations on top.</p>
+
+<p>I've also changed the tag line from "swim, bike, run", to add the word tech.
+I imagine my blog will remain more about running than anything else, but
+there will definitely be the odd technical post.</p>
+]]></content>
+  </entry>
+  
+</feed>

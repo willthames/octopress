@@ -842,15 +842,19 @@ form.well {
 
 /* ------ updates for thames.id.au ------- */
 
+body { 
+    color: #08080c;
+    background-color: #f8f8f4;
+}
+
 .pb { 
     font-weight: bold;
 }
 
 a, a:hover { 
-    color: darkslategray;
+    color: #367;
 }
 
 h1, h2, h3, h4, h5, h6 { 
-    color: darkslategray;
+    color: #367;
 }
-

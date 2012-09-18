@@ -4,7 +4,7 @@
   <title><![CDATA[Will Thames]]></title>
   <link href="http://thames.localhost/atom.xml" rel="self"/>
   <link href="http://thames.localhost/"/>
-  <updated>2012-09-18T18:43:09+10:00</updated>
+  <updated>2012-09-18T20:03:50+10:00</updated>
   <id>http://thames.localhost/</id>
   <author>
     <name><![CDATA[Will Thames]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tech behind the blog]]></title>
+    <link href="http://thames.localhost/article/2012/09/18/tech-behind-the-blog/"/>
+    <updated>2012-09-18T18:57:00+10:00</updated>
+    <id>http://thames.localhost/article/2012/09/18/tech-behind-the-blog</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve moved the blog from [http://willthames.org.uk] to reflect my new location
+and just for a change of scene really.</p>
+
+<p>I was relatively happy with <a href="http://drupal.org">Drupal</a>&#8217;s flexibility
+but just didn&#8217;t need that much
+power. Also, something a lot simpler means that I can customise it that much
+more easily.</p>
+
+<p>In the end I went with <a href="http://octopress.org">Octopress</a> using the
+<a href="https://github.com/mojombo/jekyll/wiki/blog-migrations">Drupal migration</a>
+for <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+Currently it&#8217;s only migrated my posts - not my race
+reports or training log. I&#8217;ll worry about that later. Using octopress allows
+me to store my blog posts in git and then upload them to
+<a href="http://heroku.com/">Heroku</a> - so free blog posting in quite a simple fashion.
+The only thing I don&#8217;t like about the
+combination is that I have to keep the generated pages under version control,
+but the opportunity to use and learn a bit more about Heroku was more
+compelling than just using github pages.</p>
+
+<p>For theming, I really wanted to keep the left hand bar, and I just couldn&#8217;t
+easily work out how to do it using octopress&#8217;s default theme. The
+<a href="https://github.com/barmstrong/octopress-bootstrap">bootstrap theme</a> for
+octopress was a lot easier to customise, mostly because
+<a href="http://twitter.github.com/bootstrap">Bootstrap</a> is so simple to use.
+I&#8217;ve made a few of my own tweaks
+(most of which I&#8217;ve submitted as a pull request) and some simple CSS
+customisations on top.</p>
+
+<p>I&#8217;ve also changed the tag line from &#8220;swim, bike, run&#8221;, to add the word tech.
+I imagine my blog will remain more about running than anything else, but
+there will definitely be the odd technical post.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Glasshouse 50km]]></title>
@@ -546,23 +586,6 @@ Summary data display</p>
 <p>Not long to go though - just 14 weeks to build back up to marathon distance. I should be pretty conditioned to running after last month&#8217;s efforts, but I know I need to build up nice and gently - destroying myself with injury would not be good.</p>
 
 <p>At least I know what the next three months&#8217; training looks like - a marathon training plan with some cross-training of cycling and swimming. FIRST should do the job, once I can actually do the long runs!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2011 training]]></title>
-    <link href="http://thames.localhost/article/2011/01/08/2011-training/"/>
-    <updated>2011-01-08T00:00:00+11:00</updated>
-    <id>http://thames.localhost/article/2011/01/08/2011-training</id>
-    <content type="html"><![CDATA[<p>How fortuitous. One of my favourite sports writers, Matt Fitzgerald, has done a 20 week iron distance training plan in this months Triathlete Europe. That takes about 8 weeks off my training plan, meaning a start in April rather than February.</p>
-
-<p>Now obviously that doesn&#8217;t mean I can doss around for the next three months, but I can go to Running School (a Christmas present from my lovely wife) and possibly even treat myself to a swim training day too.</p>
-
-<p>I do need to get back on the bike and back in the pool in January though, I can&#8217;t keep being slack!</p>
-
-<p>I also learnt about <a href="http://www.runnersworld.com/article/1,7124,s6-238-244-255-624-0,00.html">Yasso Intervals</a> today, which also totally fit with the principle of reducing variation. While they might not correlate with a marathon after 8 hours on the go, they should correlate with the &#8216;add a sixth of the time&#8217; school of thought (so if I can do 3:30 800s, I should be able to do a 3:30 standalone marathon and 4:03 iron distance run leg)</p>
-
-<p>Next step is to start formulating a proper training plan focussing on my key workouts and fitting in other things such as holidays etc, so I&#8217;m totally ready to start hard graft in April, while improving technique in the interim.</p>
 ]]></content>
   </entry>
   
