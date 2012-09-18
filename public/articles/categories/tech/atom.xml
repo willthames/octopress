@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Will Thames]]></title>
   <link href="http://thames.localhost/articles/categories/tech/atom.xml" rel="self"/>
   <link href="http://thames.localhost/"/>
-  <updated>2012-09-18T20:03:50+10:00</updated>
+  <updated>2012-09-18T20:28:05+10:00</updated>
   <id>http://thames.localhost/</id>
   <author>
     <name><![CDATA[Will Thames]]></name>
@@ -18,8 +18,8 @@
     <link href="http://thames.localhost/article/2012/09/18/tech-behind-the-blog/"/>
     <updated>2012-09-18T18:57:00+10:00</updated>
     <id>http://thames.localhost/article/2012/09/18/tech-behind-the-blog</id>
-    <content type="html"><![CDATA[<p>I've moved the blog from [http://willthames.org.uk] to reflect my new location
-and just for a change of scene really.</p>
+    <content type="html"><![CDATA[<p>I've moved the blog from <a href="http://willthames.org.uk">willthames.org.uk</a>
+to reflect my new location and just for an opportunity for a refresh.</p>
 
 <p>I was relatively happy with <a href="http://drupal.org">Drupal</a>'s flexibility
 but just didn't need that much
