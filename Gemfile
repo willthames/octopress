@@ -12,6 +12,7 @@ gem 'stringex'
 gem 'liquid'
 gem 'sinatra'
 gem 'thin'
+gem 'pry'
 
 group :development do
   gem 'rb-fsevent', '~> 0.9'

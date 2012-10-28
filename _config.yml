@@ -101,3 +101,4 @@ google_analytics_tracking_id: UA-34904722-1
 # Facebook Like
 facebook_like: false
 
+training_permalink: /training/:year/:month/:day/:title/

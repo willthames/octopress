@@ -8,8 +8,12 @@ module Jekyll
       "TrainingLog: #{self.id}>"
     end
 
-    def permalink
-      self.data && self.data['training_permalink']
+    def html?
+      true
+    end
+
+    def template
+      site.config['training_permalink']
     end
 
     def initialize(site, source, dir, name)
@@ -48,7 +52,7 @@ module Jekyll
         "previous" => self.previous,
         "tags" => self.tags,
         "content" => self.content,
-        "data" => self.data })
+        "data" => self.data['data'] })
     end
 
     def inspect
@@ -86,5 +90,29 @@ module Jekyll
         site.pages << TrainingLog.new(site, site.source, dir, File.basename(f))
       end
     end
+  end
+
+  class TrainingLogDataPage < Page
+
+    def template
+      '/data/:basename:output_ext'
+    end
+
+    def destination(dest)
+      path = File.join(dest, CGI.unescape(self.url))
+    end
+  end
+
+
+  # just copies the data from source directory into public directory
+  class TrainingLogDataGenerator < Generator
+    safe true
+
+    def generate(site)
+      glob = File.join(site.source, '_data', '*.json')
+      Dir.glob(glob).each do |f|
+        site.pages << TrainingLogDataPage.new(site, site.source, '_data', File.basename(f))
+      end
+    end      
   end
 end
