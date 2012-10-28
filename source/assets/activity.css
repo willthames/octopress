@@ -1,0 +1,63 @@
+path.line {
+  fill: none;
+  stroke-width: 3px;
+}
+
+path.line.speed { 
+    stroke: #006;
+}
+
+path.area.speed { 
+    fill: #88f;
+}
+
+path.line.altitude { 
+    stroke: #600;
+}
+
+path.area.altitude { 
+    fill: #f88;
+}
+
+rect.odd {
+  fill: lightyellow;
+}
+
+rect.even {
+  fill: lightblue;
+}
+
+#lapTable { 
+  border: none;
+}
+
+tr.odd { 
+  background-color: lightyellow;
+}
+
+tr.even {
+  background-color: lightblue;
+}
+
+.rect { 
+    fill: #eee;
+}
+
+.axis path, .axis line {
+  shape-rendering: crispEdges;
+  fill: none;
+  stroke: #000;
+}
+
+#summaryTable th { 
+  text-align: left;
+}
+
+#summaryTable, #lapTable { 
+  width: 400px;
+}
+
+#map { 
+  width: 400px;
+  height: 400px;
+}
