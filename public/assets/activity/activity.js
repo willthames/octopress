@@ -171,8 +171,8 @@ function summaryData(json) {
                                   " " + distance.units,
         "Total Ascent" : json.summary.asc + " m",
         "Total Descent" : json.summary.desc + " m",
-        "Max speed" : two_dp(json.summary.v_max) + " m/s",
-        "Average speed": two_dp(json.summary.v_avg) + " m/s",
+        "Max speed" : two_dp(json.summary.v_max) + " km/h",
+        "Average speed": two_dp(json.summary.v_avg) + " km/h",
         "Calories": json.summary.cals
     };
 

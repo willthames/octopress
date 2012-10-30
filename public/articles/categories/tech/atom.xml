@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Will Thames]]></title>
   <link href="http://thames.localhost/articles/categories/tech/atom.xml" rel="self"/>
   <link href="http://thames.localhost/"/>
-  <updated>2012-10-30T21:39:54+10:00</updated>
+  <updated>2012-10-30T21:55:45+10:00</updated>
   <id>http://thames.localhost/</id>
   <author>
     <name><![CDATA[Will Thames]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[training log data]]></title>
+    <title type="html"><![CDATA[Training Log Data]]></title>
     <link href="http://thames.localhost/article/2012/10/30/training-log-data/"/>
     <updated>2012-10-30T21:18:00+10:00</updated>
     <id>http://thames.localhost/article/2012/10/30/training-log-data</id>
-    <content type="html"><![CDATA[<h1>Training Log Data</h1>
-
-<p>I've really wanted to be able to take more control of my data for years.
+    <content type="html"><![CDATA[<p>I've really wanted to be able to take more control of my data for years.
 In recent months this has become more concrete and I've focussed all the
 time I have to dedicate to coding to just working on the visualisation of
 my training data.</p>
@@ -55,9 +53,12 @@ Garmin FIT data to JSON, based on the
 <a href="https://github.com/dtcooper/python-fitparse">fitparse library</a>,
 plotting lap markers, having lap popups. It's quite exciting, the
 possibilities are endless. Oh, and the <a href="http://thames.localhost/training">training log</a>
-index needs some styling applied. But at least it has some entries.</p>
-
-<p>And there's</p>
+index needs some styling applied. But at least it has some entries. The most
+recent <a href="http://thames.localhost/training/2012/10/29/bridge-and-back/">training entry</a>
+seems to have a duration of 4.5 hours. I know why it thinks that (it's
+rendering the data I present it correctly, and the start time is correct
+so what I think is the end time might be something else). Hopefully that'll
+be fixed soon.</p>
 ]]></content>
   </entry>
   
