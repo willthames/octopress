@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Will Thames]]></title>
   <link href="http://thames.localhost/articles/categories/tech/atom.xml" rel="self"/>
   <link href="http://thames.localhost/"/>
-  <updated>2012-10-28T19:52:21+10:00</updated>
+  <updated>2012-10-30T21:39:54+10:00</updated>
   <id>http://thames.localhost/</id>
   <author>
     <name><![CDATA[Will Thames]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[training log data]]></title>
+    <link href="http://thames.localhost/article/2012/10/30/training-log-data/"/>
+    <updated>2012-10-30T21:18:00+10:00</updated>
+    <id>http://thames.localhost/article/2012/10/30/training-log-data</id>
+    <content type="html"><![CDATA[<h1>Training Log Data</h1>
+
+<p>I've really wanted to be able to take more control of my data for years.
+In recent months this has become more concrete and I've focussed all the
+time I have to dedicate to coding to just working on the visualisation of
+my training data.</p>
+
+<p>I've strived to favour shipping over perfection - various choices that I've
+made have been short-term so that I can get <em>something</em> out there. At
+present I have to manually run a script that takes binary formatted data from
+my watch and turns it into JSON. <a href="http://octopress.org">Octopress</a>
+can do the rest, with the help of a plugin I wrote to generate the three
+types of 'pages' that power the training log: the training log entry itself,
+the data behind that training log entry, and the index of all training logs.</p>
+
+<p>I have made incredibly heavy use of other people's work. For dynamic
+visualisation, <a href="https://github.com/mbostock/d3">d3</a> is pretty
+much the best thing out there - it does all kinds of graphs, tables, maps and
+much more. For mapping, I used <a href="http://leafletjs.com/">Leaflet</a>,
+backed by the tiles of <a href="http://cloudmade.com">CloudMade</a>, which
+rely on the data of <a href="http://openstreetmap.org">OpenStreetMap</a>.</p>
+
+<p>To be honest, the results aren't much different to what I currently get from
+<a href="http://connect.garmin.com">Garmin Connect</a>, but this is just the
+first step.</p>
+
+<p>There are bugs. If the training data doesn't show first time, just refresh.
+I think that's a fairly normal Javascript script loading ordering problem,
+that I haven't fixed over shipping (and writing this page). The time x-axis
+is currently in seconds (I'd rather have 1:00 than 3600 but I haven't yet
+worked that one out).</p>
+
+<p>Other things on my list include publishing the script I use to convert
+Garmin FIT data to JSON, based on the
+<a href="https://github.com/dtcooper/python-fitparse">fitparse library</a>,
+plotting lap markers, having lap popups. It's quite exciting, the
+possibilities are endless. Oh, and the <a href="http://thames.localhost/training">training log</a>
+index needs some styling applied. But at least it has some entries.</p>
+
+<p>And there's</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tech behind the blog]]></title>

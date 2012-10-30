@@ -4,7 +4,7 @@
   <title><![CDATA[Will Thames]]></title>
   <link href="http://thames.localhost/atom.xml" rel="self"/>
   <link href="http://thames.localhost/"/>
-  <updated>2012-10-28T19:52:21+10:00</updated>
+  <updated>2012-10-30T21:39:54+10:00</updated>
   <id>http://thames.localhost/</id>
   <author>
     <name><![CDATA[Will Thames]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[training log data]]></title>
+    <link href="http://thames.localhost/article/2012/10/30/training-log-data/"/>
+    <updated>2012-10-30T21:18:00+10:00</updated>
+    <id>http://thames.localhost/article/2012/10/30/training-log-data</id>
+    <content type="html"><![CDATA[<h1>Training Log Data</h1>
+
+<p>I&#8217;ve really wanted to be able to take more control of my data for years.
+In recent months this has become more concrete and I&#8217;ve focussed all the
+time I have to dedicate to coding to just working on the visualisation of
+my training data.</p>
+
+<p>I&#8217;ve strived to favour shipping over perfection - various choices that I&#8217;ve
+made have been short-term so that I can get <em>something</em> out there. At
+present I have to manually run a script that takes binary formatted data from
+my watch and turns it into JSON. <a href="http://octopress.org">Octopress</a>
+can do the rest, with the help of a plugin I wrote to generate the three
+types of &#8216;pages&#8217; that power the training log: the training log entry itself,
+the data behind that training log entry, and the index of all training logs.</p>
+
+<p>I have made incredibly heavy use of other people&#8217;s work. For dynamic
+visualisation, <a href="https://github.com/mbostock/d3">d3</a> is pretty
+much the best thing out there - it does all kinds of graphs, tables, maps and
+much more. For mapping, I used <a href="http://leafletjs.com/">Leaflet</a>,
+backed by the tiles of <a href="http://cloudmade.com">CloudMade</a>, which
+rely on the data of <a href="http://openstreetmap.org">OpenStreetMap</a>.</p>
+
+<p>To be honest, the results aren&#8217;t much different to what I currently get from
+<a href="http://connect.garmin.com">Garmin Connect</a>, but this is just the
+first step.</p>
+
+<p>There are bugs. If the training data doesn&#8217;t show first time, just refresh.
+I think that&#8217;s a fairly normal Javascript script loading ordering problem,
+that I haven&#8217;t fixed over shipping (and writing this page). The time x-axis
+is currently in seconds (I&#8217;d rather have 1:00 than 3600 but I haven&#8217;t yet
+worked that one out).</p>
+
+<p>Other things on my list include publishing the script I use to convert
+Garmin FIT data to JSON, based on the
+<a href="https://github.com/dtcooper/python-fitparse">fitparse library</a>,
+plotting lap markers, having lap popups. It&#8217;s quite exciting, the
+possibilities are endless. Oh, and the <a href="http://thames.localhost/training">training log</a>
+index needs some styling applied. But at least it has some entries.</p>
+
+<p>And there&#8217;s</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Key workouts]]></title>
@@ -622,23 +670,6 @@ Run: 4h</p>
 File upload
 Canonical form conversion
 Summary data display</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Race plan for tomorrow's half marathon]]></title>
-    <link href="http://thames.localhost/article/2011/02/20/race-plan-for-tomorrows-half-marathon/"/>
-    <updated>2011-02-20T00:00:00+10:00</updated>
-    <id>http://thames.localhost/article/2011/02/20/race-plan-for-tomorrows-half-marathon</id>
-    <content type="html"><![CDATA[<p>I will set my alarm for 07:30 when I will quickly dress into my cool weather running gear. Going upstairs for breakfast, I will put on my GPS watch, and then have a mug of coffee and some cereal.</p>
-
-<p>I will aim to leave the house for 08:00, taking with me my backpack packed tonight with a dry set of clothes, and a set of race clothes suitable for warmer weather (lighter top, shorts). The bag will also contain my race number and timing tag. I will then drive to the race venue, which will already be in TomTom.</p>
-
-<p>I hope to arrive at the race venue for 09:00 with an hour before the race starts. I will keep warm and warm up during this time, changing if necessary into the warmer clothes. I will also have a caffeine gel with some water at this point.</p>
-
-<p>At 10:00 the race will start. I will aim to start at around 05:00/km and progress towards 04:45 as the field thins out and I warm up further. Each lap of the lake should take around 47 mins.</p>
-
-<p>At 11:40, I hope to cross the line. I will do some gentle stretching and some easy walking before driving home.</p>
 ]]></content>
   </entry>
   

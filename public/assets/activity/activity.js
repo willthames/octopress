@@ -66,6 +66,10 @@ function json_to_laps(json, xObject) {
     return laps;
 }
 
+function min(a,b) { 
+    return (a < b ? a : b);
+}
+
 function drawGraph(json, xObject, yObject,
                    width, height) { 
 
@@ -81,7 +85,8 @@ function drawGraph(json, xObject, yObject,
     
     x.domain([xObject.value(records[0]), 
               xObject.value(records[records.length - 1])]);
-    y.domain([0, 1.1*d3.max(records, yObject.value)]);
+    y.domain([min(0, d3.min(records, yObject.value)), 
+              1.1*d3.max(records, yObject.value)]);
 
     var svg = d3.select("#training").append("div").append("svg:svg")
         .attr("width", width + m[1] + m[3])
@@ -265,9 +270,10 @@ function drawMap(json) {
     d3.select("#training").append("div")
         .attr("id", "map");
 
+    var cloudMadeAttrib = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery &copy; <a href="http://cloudmade.com">CloudMade</a>';
     var map = new L.Map("map")
         .setView(new L.LatLng(centerY, centerX), 14)
-        .addLayer(new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'));
+        .addLayer(new L.TileLayer('http://{s}.tile.cloudmade.com/e0a6b03ca4aa4dd5ab1e8e6ec97c09ea/998/256/{z}/{x}/{y}.png', { attribution: cloudMadeAttrib }));
 
     var svg = d3.select(map.getPanes().overlayPane).append("svg:svg"),
         g = svg.append("svg:g");

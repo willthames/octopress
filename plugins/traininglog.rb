@@ -2,6 +2,25 @@ require 'pry'
 
 module Jekyll
 
+  class TrainingLogIndexPage < Page
+
+    # Initializes a new TrainingLogIndex.
+    #
+    #  +base+         is the String path to the <source>.
+    #  +training_dir+ is the training log directory under <source>
+    def initialize(site, base, training_dir, training)
+      @site = site
+      @base = base
+      @dir  = training_dir
+      @name = 'index.html'
+      self.process(@name)
+      # Read the YAML data from the layout page.
+      self.read_yaml(File.join(base, '_layouts'), 'training_index.html')
+      # Set the title for this page.
+      self.data['title']       = "Training Log"
+      self.data['training'] = training
+    end
+  end
 
   class TrainingLog < Post
     def inspect
@@ -84,11 +103,20 @@ module Jekyll
 
     def generate(site)
       dir = site.config['training_dir'] || '_training'
+      training = []
       
       glob = File.join(site.source, '_training', '*.{md,markdown}')
       Dir.glob(glob).each do |f|
-        site.pages << TrainingLog.new(site, site.source, dir, File.basename(f))
+        tl = TrainingLog.new(site, site.source, dir, File.basename(f)) 
+        site.pages << tl
+        training << tl
       end
+
+      index = TrainingLogIndexPage.new(site, site.source, 'training', training)
+      index.render(site.layouts, site.site_payload)
+      index.write(site.dest)
+      site.pages << index
+
     end
   end
 
@@ -115,4 +143,5 @@ module Jekyll
       end
     end      
   end
+
 end
