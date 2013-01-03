@@ -166,7 +166,7 @@ function summaryData(json) {
 
     summary_values = { 
         "Start time" : moment(1000 * json.summary.t_start).format("DD/MM/YYYY HH:mm"),
-        "Duration" : time_to_string(json.summary.t - json.summary.t_start),
+        "Duration" : time_to_string(json.summary.t),
         "Distance" : two_dp(distance.value(json.summary)) +
                                   " " + distance.units,
         "Total Ascent" : json.summary.asc + " m",
@@ -225,7 +225,7 @@ function title(json) {
 
     titleStr = moment(1000 * json.summary.t_start).format("DD/MM/YYYY");
     titleStr += " " + two_dp(distance.value(json.summary)) + " km";
-    titleStr += " " + time_to_string(json.summary.t - json.summary.t_start);    
+    titleStr += " " + time_to_string(json.summary.t);    
     titleh1.text(titleStr);
 }
 

@@ -6,13 +6,4 @@
 _deploy
 vendor
 node_modules
-sass/base
-sass/partials
-sass/*.s[ac]ss
-source/
-!source/_drafts/
-!source/_posts/*
-!source/images/
-!source/_includes/custom/
-!source/assets
-!source/_data
+public

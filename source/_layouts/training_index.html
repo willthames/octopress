@@ -1,0 +1,20 @@
+---
+layout: page
+footer: false
+---
+
+<div id="training-log" class="training">
+{% for tl in page.training %}
+  {% capture this_year %}{{ tl.date | date: "%Y" }}{% endcapture %}
+  {% unless year == this_year %}
+    {% assign year = this_year %}
+<h2 class="year">{{ year }}</h2>
+  {% endunless %}
+  {% capture this_month %}{{ tl.date | date: "%m" }}{% endcapture %}
+  {% unless month == this_month %}
+    {% assign month = this_month %}
+<h3 class="month">{{ month }}</h3>
+  {% endunless %}
+<li>{{ tl.date | date: "%d" }} <a href="{{ tl.url }}">{{ tl.title }}</a></li>
+{% endfor %}
+</div>
