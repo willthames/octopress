@@ -1,0 +1,88 @@
+---
+layout: post
+title: "2012 is dead. Long live 2013"
+date: 2013-01-06 21:58
+comments: true
+categories: 
+---
+# 2012 in retrospect
+2012 was a year of change having got to Australia just before Christmas 2011.
+I've tried my hand at a number of things, including brewing, and various tech
+things that I'll discuss shortly. I've barely cycled or swum since around
+April, and again, the reasons are worth mentioning. 
+
+I think my philosophy has changed somewhat, in that it's very difficult to do
+many things well - one should instead focus on the most important aspects. 
+Although I enjoyed the results of brewing, and it is difficult to get the kind
+of beers I like in Australia, it's not impossible and I can pay people to send
+me beers I like from the other side of the country. At the moment it's 
+pointless brewing due to the heat anyway, but once things quieten down again 
+I hope I'll devote some more time to it. 
+
+For swimming and cycling, I decided in April that I was going to focus big 
+style on my running. With four days a week running, that doesn't leave a lot
+of time for other exercise - but if I really wanted to, I could find time, I've
+clearly chosen not to. The swimming pool closing over winter, and the swimming
+lessons stopping over winter don't help. I imagine if it gets much hotter I may
+be replacing runs with swims soon though! I'd like to cycle a bit more but it
+needs time to do well. 
+
+As for tech, I've really tried to pare down my interests this year. I've 
+decided to limit myself to one language (python) rather than looking at
+everything. So for web apps it's been django and flask rather than rails or
+node, for configuration management it's been ansible (I've made a number of
+contributions which has really helped my python and my ability to contribute
+to open source through git and github). I've looked at data analysis using
+pandas, although I really really rate D3 for client side rendering using 
+javascript - and indeed the training log entries on this site make extensive
+use.
+
+The move of this site to Octopress was half pragmatic 
+(keeping drupal up to date was a 
+chore) and half research - how to publish a site using just git and heroku
+using markdown for rendering. There are a few minor tweaks I've made using ruby
+under the hood (in particular the training pages) which
+might seem to break my python-only rule, but it really was minor.
+
+For running, this year I've made personal bests at 5km (by over a minute), 10km
+(by three minutes, but I'm not happy with either of my 10kms) and the marathon
+(first by 7 minutes, then by 17 minutes). I also finished my first ultra run
+with a 50km run at Glasshouse. Time wasn't great, and I had some routing 
+problems, but I did it nonetheless. I've done a lot more trail running this
+year, racing at Pinnacles and regularly attending Bunyaville Trail Runners. 
+I've also attended more parkruns this year than other years, and the birth
+of Sandgate Parkrun has found me volunteering more too. I also volunteered at 
+Wild Horse Criterium, and while I fancy doing that race this year I do want to 
+ensure I contribute to the trail running community too.
+
+# 2013 Goals
+I have a vague goal of doing something like Ultra Trail du Mont Blanc by the 
+time I'm 40 (or given it's in September, just after my 40th). So many of my 
+goals will be not only to qualify, but also to prepare. Right now I wouldn't
+stand a chance!
+
+Runs I plan to do in 2013: 
+
+* Brisbane Marathon (a new PB would be nice - so sub 3:30)
+* Oxfam Trailwalker 100km (sub 20 hours seems possible but depends on team 
+  and me)
+* Wild Horse Criterium (considering the 60km or even the 80km as it 
+  approaches Trailwalker) 
+* Any timed 10km that fits with the rest of my schedule to get the kind of PB
+  I'm theoretically capable of (below 45min seems reasonable)
+* On that note it would be good to get a new half marathon PB too, although
+  it's not letting the side down as much as the 10km.
+
+I also want to significantly reduce my 5km time - but suspect it'll need a cool
+windless day before that happens - my usual time right now is 90 seconds longer than PB!
+
+With our recently bought house I really want to dedicate time to improving it 
+as much as is sensible and affordable (not exactly a smart goal but without 
+the advice of experts I don't know what is sensible or even possible). 
+
+I also want to carry on learning - I have a few home monitoring projects that
+will require some Arduino investigation.
+
+Hopefully I'll brew the awesome Sorachi Ace Imperial IPA that I planned last 
+year and never got around to. 
+
