@@ -862,3 +862,13 @@ time {
     font-variant: small-caps;
     font-weight: bold;
 }
+
+.ok { 
+    color: green;
+}
+.warn { 
+    color: orange;
+}
+.fail { 
+    color: red;
+}
