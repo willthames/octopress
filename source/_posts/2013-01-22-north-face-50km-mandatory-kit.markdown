@@ -53,8 +53,8 @@ that I realise too late)
 * <span class="fail">1 x lightweight Dry Sack to keep your compulsory clothing
   dry (plastic bags or zip lock bags are fine but Sea to Summit Ultra-Sil dry
   sack is recommended)</span>
-* <span class="warn">Capacity to carry 2 litres of water (water bladder or
-  water bottles)</span> - need to check my bladder capacity, it might be only
+* <span class="fail">Capacity to carry 2 litres of water (water bladder or
+  water bottles)</span>
   1.5l
 * <span class="warn">2 x bars / food portions</span> - need to decide what to
   take here!
