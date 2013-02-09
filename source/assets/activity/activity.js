@@ -35,6 +35,13 @@ var altitude = {
     toString: function(d) { return d.a; }
 };
 
+var pace = { 
+    value: function(d) { return 60/d.v; },
+    toString: function(d) { return int(60/d.v) + ":" + int((3600/d.v)%60); },
+    units: "min/km",
+    name: "pace"
+}
+
 var time = { 
     value: function(d) { return +d.t; },
     name: "time",
@@ -185,7 +192,7 @@ function summaryData(json) {
 
 function lapData(json) { 
     var laps = json_to_laps(json);
-    var columns = [ "Lap", "Duration", "Distance", "Speed" ];
+    var columns = [ "Lap", "Duration", "Distance", "Speed", "Pace" ];
 
     var lapTable = d3.select("#training").append("table")
                        .attr("id", "lapTable")
@@ -212,7 +219,8 @@ function lapData(json) {
         .data(function(row, index) { 
             return [ index+1, time_to_string(row.time.width), 
                      two_dp(row.distance.width),
-                     two_dp(3600 * row.distance.width / row.time.width) ]
+                     two_dp(3600*row.distance.width/row.time.width),
+                     time_to_string(row.time.width/row.distance.width)]
         })
         .enter()
         .append("td")
