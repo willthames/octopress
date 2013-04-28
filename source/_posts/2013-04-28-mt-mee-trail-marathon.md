@@ -62,7 +62,7 @@ At 40km I had a go at
 more blister patching, but it wasn't massively successful - but enough to 
 get me to the end. I also paused to indulge in some gratuitous photography
 when I spotted some actual view (a lot of the run was through forest, which
-while pretty, wasn't necessarily very photogenic
+while pretty, wasn't necessarily very photogenic)
 
 <img src="/images/mtmeeview.jpg">
 
