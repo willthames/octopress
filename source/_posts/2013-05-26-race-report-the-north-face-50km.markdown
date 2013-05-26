@@ -161,9 +161,9 @@ whether the memories of last year had faded!
 
 My final time was 7:24:52, and I was 130th out of 266 runners. I was very
 happy with that, and pleased not to have to run another 50km. While 
-on the course, at one point I also gave up on my goal of ever doing 
-Ultra Trail du Mont Blanc, and later might have decided to 
-possibly also retire from running entirely!
+on the course, at one point I gave up on my goal of ever doing 
+Ultra Trail du Mont Blanc, and then even considered retiring from running 
+entirely!
 
 <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/316457247'></iframe>
 
