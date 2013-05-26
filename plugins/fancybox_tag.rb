@@ -58,7 +58,7 @@ module Jekyll
         end
         result + "<a class=\"fancybox\" rel=\"#{@fancybox[:gallery]}\" " + 
           "href=\"#{@fancybox[:src]}\">\n" + 
-          "  <img src=\"#{@fancybox[:thumb]}\" alt=\"#{@fancybox[:alt]}\" " +
+          "  <img class=\"img-polaroid\" src=\"#{@fancybox[:thumb]}\" alt=\"#{@fancybox[:alt]}\" " +
           "title=\"#{@fancybox[:title]}\"></a>"
       else
         "Error processing fancybox, expected syntax: {% fancybox galleryname [http[s]:/]/path/to/image [title text | \"title text\" [\"alt text\"]] %}"

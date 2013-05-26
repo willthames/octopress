@@ -88,6 +88,22 @@ task :preview do
   [jekyllPid, compassPid, rackupPid].each { |pid| Process.wait(pid) }
 end
 
+desc "start a server without watching"
+task :server do 
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  puts "Starting Rack on port #{server_port}"
+  rackupPid = Process.spawn("rackup --port #{server_port}")
+
+  trap("INT") {
+    Process.kill(9, rackupPid) rescue Errno::ESRCH
+    exit 0
+  }
+  Processs.wait(rackupPid)
+end
+
+# usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
+desc "Begin a new post in #{source_dir}/#{posts_dir}"
+
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
 desc "Begin a new post in #{source_dir}/#{posts_dir}"
 task :new_post, :title do |t, args|

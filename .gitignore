@@ -7,3 +7,4 @@ _deploy
 vendor
 node_modules
 public
+source/stylesheets/screen.css
