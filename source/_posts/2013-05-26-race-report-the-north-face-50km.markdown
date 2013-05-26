@@ -10,7 +10,7 @@ suffering fade. If I leave it much longer I might accidentally document that
 it really wasn't that different to the average walk in the park.
 
 ## The Day before
-<a href="#raceday">skip this section</a> if you just want the race details!<br/>
+*<a href="#raceday">Skip this section</a>* if you just want the race details!<br/>
 
 I flew down to Sydney on the Friday morning, picked up my hire car from the
 airport, and drove straight to Leura. I did want to get to my accommodation 
@@ -160,9 +160,10 @@ whether the memories of last year had faded!
 {% fancybox tnf50 /images/tnf_dave_will_finish.jpg "Dave and Will at the finish (Chris)" %}
 
 My final time was 7:24:52, and I was 130th out of 266 runners. I was very
-happy with that, and pleased not to have to run another 50km. On the course
-I also gave up on my goal of ever doing Ultra Trail du Mont Blanc, and 
-possibly also retired from running entirely.
+happy with that, and pleased not to have to run another 50km. While 
+on the course, at one point I also gave up on my goal of ever doing 
+Ultra Trail du Mont Blanc, and later might have decided to 
+possibly also retire from running entirely!
 
 <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/316457247'></iframe>
 
@@ -184,3 +185,17 @@ both come such a long way in the last few years - I'm sure they both have
 innate talent too, but working hard can make a big difference:
 <ul><li><a href="http://runmrd.blogspot.com.au/2013/05/tnf100-race-report-2013.html">Brendan Davies' North Face 100 blog</a></li>
 <li><a href="http://bethcardelli.blogspot.com/2013/05/tnf100-2013.html">Beth Cardelli's North Face 100 race report</a></li></ul>
+
+## The Day After
+I went to find Bridal Veil falls, which Peta tried to show me seven years ago
+on our first trip together to Australia, after several years of drought, and
+the falls looked a bit pathetic. It looked much better! I also took a trip to 
+Cliff View lookout at Katoomba, and Wentworth Falls lookout. It was a 
+beautiful day and I was happy to be walking without too much pain (down steps
+was the only tough move). I bumped into a guy who'd done the 100 and was out
+with his family, and had a nice chat with him. I badgered some other tourists
+to take my photo at Cliff View. 
+
+{% fancybox tnf50 /images/tnf_will_cliff_view.jpg "Will at Cliff View Lookout" %}
+{% fancybox tnf50 /images/tnf_will_selfie_wenty.jpg "Will at Wentworth Falls Lookout" %}
+

@@ -98,7 +98,7 @@ task :server do
     Process.kill(9, rackupPid) rescue Errno::ESRCH
     exit 0
   }
-  Processs.wait(rackupPid)
+  Process.wait(rackupPid)
 end
 
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
