@@ -107,7 +107,7 @@ people do it every year - the race logistics seem awesome, you can get drop
 bags sent to whichever checkpoint they're needed (I gather) - which means
 you don't have to carry every gram of kit for the whole race (e.g warm 
 clothes need only be picked up at checkpoint 4). But friendly faces and 
-encouraging words must surely help. Involving the support crew in the planning
+encouraging words can definitely help. Involving the support crew in the planning
 process is essential so that they know where to be at what times, and what I'm 
 likely to need. As with any endurance event that requires a lot of training,
 having an early conversation with family about support levels and training 
