@@ -5,7 +5,9 @@ date: 2013-08-04 15:39
 comments: true
 categories: 
 ---
-Note: most of this was written Sunday afternoon - so although it's posted a few days late, it's a fairly timely (and therefore more accurate) recollection.
+<em>Note: most of this was written Sunday afternoon - so although it's 
+posted a few days late, it's a fairly timely (and therefore more accurate) 
+recollection.</em>
 
 Last year's Brisbane Marathon was the highlight of my running season - an 
 18 minute PB just five weeks after a 7 minute PB at Gold Coast, bringing my PB 
@@ -44,7 +46,7 @@ race and that it would be a sufferfest to the end. At this point my friend
 Dave (who started in the zone behind mine) caught up with me, and kindly gave 
 me a gel, before heading on his own race, looking strong. 
 
-<img src="/images/brismara2013_1.jpg"/>
+<img src="/images/brismara2013_1.jpg"/><br/>
 <em>Between 29 and 30km, just after Victoria Bridge - by Peta</em>
 
 While the gel perked me up a bit, I think it caused some stomach issues, but
@@ -85,7 +87,7 @@ For all my niggles, I don't think they really had a major effect on the race.
 I might have a few days off running now, I'm shattered! \[It's now Wednesday, 
 and today I had my first run since Sunday (just 5km)\]
 
-<img src="/images/brismara2013_2.jpg"/>
+<img src="/images/brismara2013_2.jpg"/><br/>
 <em>Just after the Sombrero kids, at 35km</em>
 
 <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/353799259'></iframe>
