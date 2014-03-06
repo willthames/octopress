@@ -26,7 +26,7 @@ this year it's just two weeks before.
 In terms of how things could be improved, I need to do more hills, more steps and more
 distance, but I plan on doing all of those. 
 
-January stats:
-* Distance: 180km
-* Ascent: 1321m according to Garmin, probably only 200m really (a lot of flat 
-seafront runs show up as 200m of ascent!). 
+January stats:<ul>
+<li>Distance: 180km</li>
+<li>Ascent: 1321m according to Garmin, probably only 200m really (a lot of flat 
+seafront runs show up as 200m of ascent!).</li></ul>
