@@ -72,7 +72,7 @@ Anyway, with my load lighter I was able to push on through, and
 a bit later passed Paul who was suffering from cramping, and
 some of the other runners too. By
 the time I got to the 37km checkpoint I was happy to be able to refill
-my bladder (my front bottles containing energy drink were about half
+my camelbak (my front bottles containing energy drink were about half
 full still, so I left them as they were). I also had a couple of cups of
 water and a couple of flat coke too. 
 
@@ -87,13 +87,14 @@ really my legs that were holding me back.
 
 I used my energy drinks as a kind of reward strategy - sipping on it every
 so often to keep my spirits up. And once they were almost empty, I siphoned
-some of my bladder water into them so that I could at least have some 
-vaguely flavoured water! 
+some of my remaining water into them so that I could at least have some 
+vaguely flavoured water! I was a bit surprised at how little water I 
+finished with, considering.
 
 The second half took about 3:25, probably just under half an hour slower
 than the first half. Given the very different conditions, I'm happy with
-that. I finished in 6:27, which comparing to similar races such as 
-Glasshouse 50, which had similar conditions temperature wise but much 
+that. I finished in 6:27 which, when comparing to races such as 
+Glasshouse 50 in similar temperatures but 
 less elevation, seems about right for me. 
 
 I do think it was an excellent training run, and gave me the opportunity
