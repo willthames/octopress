@@ -90,4 +90,4 @@ and today I had my first run since Sunday (just 5km)\]
 <img src="/images/brismara2013_2.jpg"/><br/>
 <em>Just after the Sombrero kids, at 35km</em>
 
-<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/353799259'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/101060482/embed/daf18a44cd1cb2a5ae10286a65721df1210a5414'></iframe>
