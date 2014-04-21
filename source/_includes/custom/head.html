@@ -1,5 +1,8 @@
-{% if page.data_url %}
+{% if page.data_url or page.uses_d3 %}
 <script src="http://d3js.org/d3.v2.js"></script>
+<link rel="stylesheet" href="{{ root_url }}/assets/activity/activity.css">
+{% endif %}
+{% if page.data_url %}
 <script src="{{ root_url }}/assets/activity/moment.min.js"></script>
 <script src="{{ root_url }}/assets/activity/activity.js"></script>
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4.5/leaflet.css" />
@@ -8,7 +11,6 @@
 <![endif]-->
 
 <script src="http://cdn.leafletjs.com/leaflet-0.4.5/leaflet.js"></script>
-<link rel="stylesheet" href="{{ root_url }}/assets/activity/activity.css">
 {% endif %}
 <script src="{{ root_url }}/javascripts/jquery-2.0.1.min.js"></script>
 <link rel="stylesheet" href="{{ root_url }}/assets/fancybox/jquery.fancybox.css">
