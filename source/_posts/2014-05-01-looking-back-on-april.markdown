@@ -25,17 +25,38 @@ In between those I did a nice short sharp race at the
 
 My weekly volume has averaged on the high side &mdash; I'd planned to do 70km a week &mdash; I
 took a short week of just 51km the week after my 50km after Nerang, but the 
-other weeks beat the target (by 15km in two of the other weeks!).
+other weeks beat the target (by 15km in two of the other weeks!). More 
+importantly for the North Face, I have managed nearly 8000m of ascent
+in April. The Pinnacles and Camp Mountain were both events that were
+proportional in ascent to the North Face race.
+
+Someone asked me at the weekend if I'd lost weight (other than the haircut).
+I haven't been diligently tracking but it's probably 5kg since Christmas.
+I'm at my lowest weight since Ironman Zurich &mdash; around the same
+weight as just before Challenge Henley. My optimal race weight is probably still
+a few kg lighter but that'd involve sacrificing pizza and beer &mdash; which
+would negate the point of running in the first place, for me! So around ten
+hours a week of running appears to be sufficient &mdash; slightly more efficient
+than 18 hours a week of triathlon training.
 
 All in all, I could feel more ready, but I've been pushing my body to do 
 what I've felt physically and mentally capable of. Just over two weeks
 until the main event! This week will be another 70km week and then I'll reduce
 volume and probably elevation too so that I stop feeling so bloody tired every
-time I run!
+time I run! I probably haven't done enough steps (so I'll run some more 
+tomorrow) but at least this year I know what to expect and I've at least
+done plenty of uphill and downhill to strengthen the legs.
 
 And I got my mandatory kit signed off, so that's one less thing to do at race
 registration. Still going to be a busy Friday afternoon given the mandatory
-race briefing at 7:30pm plus registration etc.
+race briefing at 7:30pm plus registration etc. 
+
+I also went through the 
+route for the course, looking at where the specific tough bits are. There are
+a few quite nasty looking bits, particularly around half way as we come out of
+the valley up into Katoomba. But then I thought 
+'that's not much worse than a loop of Camp Mountain, 
+and I did eight of them in a day'.
 
 April stats:<ul>
 <li>Distance: 323km</li>
