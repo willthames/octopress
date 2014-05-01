@@ -12,18 +12,18 @@ In my [Fantasy North Face](/article/2013/06/01/fantasy-north-face-100km/) post,
 I mention a few key things I thought I needed to do to be 100km ready. One of
 those was normalising the distance. With that in mind I did 
 [Nerang 50km](/article/2014/04/07/race-report-nerang-50km/) as a
-fantastic race tune-up run, with no specific preparation - I signed up on the
+fantastic race tune-up run, with no specific preparation &mdash; I signed up on the
 Wednesday and did it on the Sunday. 
 
 I also mentioned hill training, which is what I was doing two weeks later when
-I ran a [marathon around Camp Mountain](/article/2014/04/20/ninth-times-a-charm-a-marathon-on-camp-mountain/) - which
+I ran a [marathon around Camp Mountain](/article/2014/04/20/ninth-times-a-charm-a-marathon-on-camp-mountain/) &mdash; which
 was a 42.9km run with 2400m of elevation. That was also a good opportunity
 to test running with full race kit and test nutrition and hydration strategies.
 
 In between those I did a nice short sharp race at the
 [Pinnacles](/article/2014/04/13/race-report-pinnacles-2014/) event.
 
-My weekly volume has averaged on the high side - I'd planned to do 70km a week - I
+My weekly volume has averaged on the high side &mdash; I'd planned to do 70km a week &mdash; I
 took a short week of just 51km the week after my 50km after Nerang, but the 
 other weeks beat the target (by 15km in two of the other weeks!).
 
@@ -39,4 +39,4 @@ race briefing at 7:30pm plus registration etc.
 
 April stats:<ul>
 <li>Distance: 323km</li>
-<li>Ascent: 7918m according to Garmin - usual disclaimers apply.</li></ul>
+<li>Ascent: 7918m according to Garmin &mdash; usual disclaimers apply.</li></ul>
