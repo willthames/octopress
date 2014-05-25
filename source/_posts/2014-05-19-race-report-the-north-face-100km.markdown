@@ -267,6 +267,8 @@ buckle, and significantly under the 28 hour cutoff for the race. I earned my
 and I believe I justified it with this year's North Face 100 (456th out of
 over 1000 entrants &mdash; I don't know yet how many actually started)
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/142525572/embed/ba4d7d9fe7e1aa7c2b16ef7d64aee3ecc8e9d686'></iframe>
+
 ## Kit
 * Bamboo technical top (Royal Parks Half 2010 finishers top &mdash; my most visible top 
 for Peta's benefit) until CP5
