@@ -5,20 +5,15 @@ date: 2014-05-19 18:05
 comments: true
 categories: 
 ---
-## TODO:
-* Add pictures
-* Add links to land custodian information
-* Make tips and mantras stand out? 
-
 ## Introduction
-This post is quite long, worthy of the race it reports. TL;DR version &mdash; yes, I
-finished, it took 17:51 and was quite hard work. But really, grab a cup of tea,
-sit down, and read on&hellip;
+This post is quite long, worthy of the race it reports. 
+Grab a cup of tea, sit down, and read on&hellip;
+Mostly written on Tuesday and finished off with pictures on Sunday.
 
 ## Race report
 After my [inauspicious lead-up](/article/2014/05/14/with-three-days-to-go-dot-dot-dot/) to the race, I continued the non-training bits of race preparation as 
 best I could, sorting out my energy drink sachets so that I had 16 bags with 50g
-each (thankfully I didn't have to explain the baggies at airport security), 
+each (thankfully I didn't have to explain the baggies of white powder at airport security), 
 packing my race kit and supporting my support crew.
 
 This was my first race where Peta was supporting in a participatory sense,
@@ -36,10 +31,9 @@ on Facebook, which led me to a [great blog including preparation tips](http://ru
 
 I still wasn't feeling 100% better on the Friday, and I found the slight incline
 from the parking to registration at the race start really affected my breathing. 
-However, it
-was also very cold, and I was suffering a little from pre-race nerves. 
+However, it was also very cold, and I was suffering a little from pre-race nerves. 
 
-Race registration, for me, in 2014, was amazing. I got to registration at 7pm 
+Race registration, for me, in 2014, was amazingly efficient. I got to registration at 7pm 
 and by 7:02 I was registered and by 7:04 I had the goodie bag. Unfortunately
 I then had to stick around another 30 minutes until compulsory race briefing
 which started late and ran long. I should have grabbed a seat before it started
@@ -61,16 +55,20 @@ and got to the start in plenty of time. Although I miscounted the wave starts
 and thought the third was yet to go when mine was 2 minutes from starting &mdash; I
 wasn't as ready as I'd have liked at that point, but sorted myself out in time.
 
+{% fancybox tnf100start /images/tnf100_selfie_start.jpg "Ready to go!" %}
+{% fancybox tnf100start /images/tnf100_peta_sunrise.jpg "Glorious sunrise to see us off (Peta)" %}
+{% fancybox tnf100start /images/tnf100_peta_narrowneck.jpg "View of Mount Solitary and Ruined Castle (Peta)" %}
+
 There was always a doubt in my mind that I might make no further in the race
 than the first 5km, which was an out and back where if I was feeling truly
 dreadful still, then would be the time to withdraw. The out and back was pretty 
 enjoyable for an uphill slog (followed by a downhill slog I suppose) &mdash; we drove 
-it this morning and I thought "Wow, I ran (ok, walked) this". Great views, fun
+the same route on Tuesday morning and I thought "Wow, I ran (ok, walked) this". Great views, fun
 times, lots of early camaraderie.
 
 Back at Scenic World, Peta had picked a great spot to stand &mdash; I could see her
 a few hundred metres away and give her a big wave to warn her I was on my way
-and have the camera ready. I stopped for a quick kiss and to let her know I was
+and to have the camera ready. I stopped for a quick kiss and to let her know I was
 feeling good and was running well, which was a nice surprise for me too.
 
 Down the Furber steps we went, the steps taking their toll on my quads, and
@@ -85,7 +83,7 @@ Still, once at the top it was a quick jaunt to the first checkpoint, where I
 refilled bottles and camelbak. Signal wasn't good enough to send a text to Peta,
 which I should have done anyway &mdash; I didn't realise until the next checkpoint that
 the online tracker never showed me arriving at checkpoint one, and people were
-starting to get concernd back home! 
+starting to get concerned back home! 
 
 I had my one stack of the day where I tripped on some hidden obstacle and went 
 flying. Thankfully it was mostly sand/dirt road, and I had nothing more than
@@ -97,6 +95,9 @@ Taros ladders. Chatting to another American lady later, if you were in a later
 wave the queues were bad and the detour was horrific, so I was very pleased
 to get to the ladders with only a few people in the queue &mdash; it was perfectly
 fine for me, the benefits of getting a good starting wave.
+
+{% fancybox 20km /images/tnf100_selfie_20km.jpg "20km and beautiful surrounds" %}
+{% fancybox 20km /images/tnf100_pro_cresting_the_hill.jpg "Cresting the hill (Aurora)" %}
 
 From Taros to Checkpoint 2 seems utterly unmemorable now &mdash; there were lots
 of steps down where I felt uneasy, and very worried about later steps if I
@@ -127,7 +128,7 @@ stuff sack, but I totally understand the point of it, so I just treated it like
 a mandatory rest!
 
 I had written instructions for Peta at Checkpoint 3, but only to be used if
-I was running at least two hours late &mdash; in the end I was bang on time still. 
+I was running at least two hours late &mdash; in the end I was bang on time. 
 This was to save her the hassle of in my mind an unnecessary burden &mdash; it was
 only 11km to the next checkpoint with an expected time for the leg of two hours. 
 I'm still very happy with this decision &mdash; it probably gave Peta more than two
@@ -148,6 +149,10 @@ past me on the descent from Kedumba around the 85km mark &mdash; he finished hal
 hour before me in the end, which given his performance on uphill and downhill
 (I was quicker on the flat, which was no help for the last 20km!) was deserved.
 
+{% fancybox middle /images/tnf100_selfie_farmlands.jpg "Below the cliffs" %}
+{% fancybox middle /images/tnf100_pro_farmlands.jpg "Through the farmlands (Aurora)" %}
+{% fancybox middle /images/tnf100_peter_50km.jpg "Halfway there&hellip; (Peter)" %}
+
 After Nellies Glen, it wasn't too far to get to Checkpoint 4 &mdash; Peta was again
 well placed to spot me, and she saw me before I saw her for some more photos.
 Unfortunately neither of us knew that she'd have to take a very long route into 
@@ -161,6 +166,10 @@ didn't hang around &mdash; Peta and I got a bit confused when she said 'See you 
 (meaning the checkpoint) and I said 'that's only an hour, I'm going to take 
 four!' but we quickly worked that out!
 
+{% fancybox cp4_to_5_day /images/tnf100_selfie_giants.jpg "Descending Giants Stairway" %}
+{% fancybox cp4_to_5_day /images/tnf100_pro_forest_day.jpg "Through the forest (Aurora)" %}
+{% fancybox cp4_to_5_day /images/tnf100_pro_steps_day.jpg "Down a few of many steps (Aurora)" %}
+
 The next stage of the run was the bit of the North Face 50 from last year
 that I'd really struggled with. I was convinced the race director was a 
 sadist and put as many stairs into the section as possible. This year, my 
@@ -168,9 +177,21 @@ frame of mind was very different &mdash; I'd trained for stairs, I accepted it a
 very much a key part of the North Face race, and was ready for it. And I felt
 happier and easier doing the stairs this year than last year, even though I'd
 run 20km further at that point. Sure, I forgot about blocks of stairs but
-I never found myself particularly annoyed by them. It was great to stop
+I never found myself particularly annoyed by them.
+
+At some point on the stairs, we came across a cockatoo, just standing on a step.
+I said "Hello Cocky!", to which he/she replied "Hello!". So of course I had to
+say hello again. Presumably it'd either escaped from a family or had just learned
+to say hello on the trails, but it wasn't at all bothered by all these trail runners
+going past!
+
+It was great to stop
 at the 66km water stop, where I was well looked after by Steph, a three year
 old, who helped fill my camelbak (with the help of her mum). 
+
+{% fancybox into_night /images/tnf100_selfie_60km.jpg "At 60km" %}
+{% fancybox into_night /images/tnf100_pro_dancing_on_rocks.jpg "Dancing across rocks (Aurora)" %}
+{% fancybox into_night /images/tnf100_pro_night.jpg "Running during darkness (Aurora)" %}
 
 After a couple more kms, I was convinced I must have passed the Fairmont and
 was ahead of schedule, so I texted Peta to let her know this crucial fact. 
@@ -196,10 +217,10 @@ of the valley were warmer than the rest of the air (we'd been warned to expect
 cold breezes, which seems a sensible warning most of the time!)
 
 And then almost 10km downhill. In 2013, that 10km took me about 50 minutes. This
-year I was a lot% slower &mdash; about 90 minutes, because I was no longer comfortably
+year I was a lot slower &mdash; about 90 minutes, because I was no longer comfortably
 able to run downhill &mdash; my knees and my quads were just not willing to suffer
 in silence. I was actually happier going uphill &mdash; it was slower, of course, 
-but I felt like I was making as good progress this year than last year. 
+but I felt like I was making as good progress this year as last year. 
 
 The distance between the 90km marker and the supposed 91km water point seemed
 enormous but at that point everything was a walk, uphill, and thus taking nearly
@@ -224,7 +245,7 @@ stops on the way up, but probably not quite that many.
 And then I was walking up the boardwalk to Scenic World, and saw a sign saying
 last 5 steps, and so started running &mdash; I bounded up the steps, and then finished
 strong nearly across the line, pausing slightly to let Peta take a photo, and
-then crossed into her arms. After some uncertainty about what happened next,
+then crossed into her arms. After some uncertainty about what happens next,
 I went to collect my medal, and bumped into Peter on his way out, so it was
 great to find out how he'd done. I then had the best chicken soup I'd ever had
 (another top tip &mdash; have chicken soup as a meal &mdash; the meal I prepared myself 
@@ -233,6 +254,9 @@ and opened the bottle of fizz that we had in the fridge, and all was good with
 the world. I also took the opportunity while the jacuzzi was being run to catch
 up on all the vast amount of good wishes that people had left on Facebook, it
 was lovely to feel so well supported. 
+
+{% fancybox finished /images/tnf100_peta_finished.jpg "Finished! (Peta)" %}
+{% fancybox finished /images/tnf100_peta_celebrating.jpg "Well earned fizz (Peta)" %}
 
 100kms in 17:51, about 40 minutes slower than the first four checkpoints 
 suggested I should manage, and certainly I did feel like the wheels fell off
@@ -243,6 +267,41 @@ buckle, and significantly under the 28 hour cutoff for the race. I earned my
 and I believe I justified it with this year's North Face 100 (456th out of
 over 1000 entrants &mdash; I don't know yet how many actually started)
 
+## Kit
+* Bamboo technical top (Royal Parks Half 2010 finishers top &mdash; my most visible top 
+for Peta's benefit) until CP5
+* Gore Running long sleeve with mitten cuffs &mdash; good for the first 2km when
+I was cold and my hands were wet after the checkpoint, too hot afterwards. Should
+have just worn running gloves for a couple of ks. 
+* Ronhill shorts with just a little inside flap as a pocket &mdash; didn't think I needed
+pockets given my backpack but they'd have been good to keep e.g. gloves in.
+* Salomon Crossmax shoes &mdash; probably one of their last runs &mdash; they've done over
+500km since I started tracking my shoes at the start of the year, it's probably
+nearer 1000km in their lifetime. And even Peta thinks they look like they need
+replacing.
+* Salomon S-Lab 12. Gets rave reviews, barely moves on the body, has excellent
+front pockets for bottles. But has wire reinforcement that really digs in, and
+a stupid front securing mechanism needing to connect or disconnect 4 different
+clasps everytime you want to take it off or put it on. And while it is 12L, some
+of that only works if you put everything in a stuff sack, which is awkward for
+gear checks. I think I'll be replacing it and hoping for a good price on ebay 
+(I hope noone reads this before buying it!)
+* X-Socks marathon. Great, although perhaps a little short for this event as
+grit got in too easily &mdash; but so so comfortable on the feet.
+* Neutrogena Beach Defense spray on sun protection. Allows me to sweat with it
+on, which beats most sun cream.
+* Skin slather lube. I had no chafing where I used this, and it quickly resolved
+where I missed using it. 
+* I was pleased with my nutrition/hydration choice. I'm not at all affiliated
+with [Tailwind Nutrition](http://tailwindnutrition.com.au/), but their 
+product works for me &mdash; I had something like thirteen out of the sixteen planned
+pouches. I did get a bit peckish around the 70km mark, and had a Boost. I also
+had a little of my sausage and potato food, but really not very much. It was
+easier to keep on top of the required amount of Tailwind when it was warmer &mdash; 
+probably the 70km flagging was because I had only drank half the amount I should
+have from the 56km checkpoint. But I think chicken soup at Checkpoints 4 and 5
+would have gone down well. 
+
 ## Post race thoughts
 
 I don't feel the need to do that particular 100km again, although I'll never say
@@ -251,8 +310,7 @@ I might, but shaving nearly four hours off my time seems near impossible. There
 are so many great races to do that would be difficult to do in the same year
 that I also want to do &mdash; Tarawera and Cradle Mountain being two off the top of
 my head. And I'd also like to try some of the other Blue Mountain races, such
-as Mount Solitary (having done a small part of Six Foot Track during this race,
-I'm not sure that the Six Foot Track race is on my list).
+as Mount Solitary or the Six Foot Track.
 
 On North Face 100 preparation, aside from my cold, which may well have been 
 a blessing in that I was definitely well rested and couldn't go too hard early
@@ -270,21 +328,19 @@ of my shoes was probably getting towards 10 minutes. And grit got in the top of
 my socks and rubbed the tops of my feet such that I'm wearing blister plasters
 there now. 
 
-I was pleased with my nutrition/hydration choice. I'm not at all affiliated
-with [Tailwind Nutrition](http://tailwindnutrition.com.au/), but their 
-product works for me &mdash; I had something like thirteen out of the sixteen planned
-pouches. I did get a bit peckish around the 70km mark, and had a Boost. I also
-had a little of my sausage and potato food, but really not very much. It was
-easier to keep on top of the required amount of Tailwind when it was warmer &mdash; 
-probably the 70km flagging was because I had only drank half the amount I should
-have from the 56km checkpoint. But I think chicken soup at Checkpoints 4 and 5
-would have gone down well. 
-
 Peta and I worked out the support strategy quite well for a first time.
 Having spare bottles and camelbak would have meant we could just do bottle swaps
 rather than me having to fill them (supporters weren't allowed near the water).
 And the 99km texting was a lesson hard learned, that I should have realised
 given the paucity of the GPS signal down there, but no regrets. 
+
+Unlike in the 50 last year, where I swore to give up trail running, this year
+I felt happy and confident the whole way through. I never felt like I would
+need to give up (although how difficult I found the first stair climb gave
+me some cause for concern, and my legs felt a bit shaky on some of the technical
+downhills around the Taros steps, and I worried that they'd feel worse later, but
+neither worry was serious nor, in hindsight, warranted!). I don't recall many
+races where I felt so capable!
 
 ## Acknowledgements
 
@@ -296,6 +352,13 @@ Mountains where I can actually do some decent walking with her!
 
 I would like to thank the traditional owners of the area for their heartfelt
 welcome and the work they do to conserve the land for generations to come. 
+
+The organisation of the 2014 North Face seemed even better than usual (I think
+the change of venue helped them) &mdash; it was well marked, everything was smooth
+(except perhaps the direction at the finish, but when I did ask what to do next,
+they were very helpful). I think Tom and Alina and everyone involved do a 
+fantastic job. I'd like to particularly thank everyone who volunteered their time
+as marshals, at checkpoints, and start and finish.
 
 My new friends I made on the race &mdash; I'll probably never meet them again but
 Peter and Erika from Sydney Striders, Charlene who made sure I was ok after
@@ -320,4 +383,17 @@ winner did it in six!) who said 'Bragging rights are forever', another helpful
 mantra for my run, and much more positive than drug cheat 
 Armstrong's 'Quitting is forever'.
 
+Thanks to everyone who liked or commented on Peta's updates on Facebook &mdash;
+the tracking that Peta did was more up to date and accurate than the official
+timings, and she was able to let me know how much everyone was cheering me on. 
+And I did really enjoy catching up on it all after the race, so thank you all!
 
+## Photo credits
+
+Photos are credited in the thumbnail titles (i.e. when you hover over the images in this post):
+
+* (Aurora) &mdash; [Aurora Images](http://auroraimages.com.au/)
+* (Peta) &mdash; [Silken Photography](http://silkenphotography.wordpress.com/)
+* (Peter) &mdash; Peter, a guy I met on the run. Don't yet know his last name.
+
+Uncredited photos are self-portraits by me. 
