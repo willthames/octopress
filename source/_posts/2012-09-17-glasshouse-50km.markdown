@@ -41,7 +41,7 @@ Between checkpoints 4 and 5 is really where it started to go wrong. It was
 mainly the ascents that hit me hard, but also the increase in temperature. 
 By the time I got to checkpoint 5 I was definitely walking a lot more often!
 
-{% img img-polaroid /images/beerwah.jpg View from Checkpoint 5 %}
+{% img img-thumbnail /images/beerwah.jpg View from Checkpoint 5 %}
 
 At checkpoint 5 I took on some more food and also refilled the camelbak 
 before heading on for the next epic bit. I made a catastrophic error at what
@@ -68,7 +68,7 @@ wasn't that willing to cooperate and while my legs could do some quick bits
 for a few hundred metres, there were no more fast kms after that. Occasionally
 I'd round a corner to get a blast of heat. 
 
-{% img img-polaroid /images/beerwah2.jpg View from road below Glasshouse Mountains scenic lookout %}
+{% img img-thumbnail /images/beerwah2.jpg View from road below Glasshouse Mountains scenic lookout %}
 
 At checkpoint 2 it was good to take some water on again for the last 5km or so.
 There were some tough times but I bumped into a couple of people on the way
@@ -91,7 +91,7 @@ any time lost to due to loss of focus at the time.
 I was very happy to finish, and I love my souvenir ultra finishers mug! (the 
 qualifier is important as I think I'd have done far better on the 30km run, 
 but I wouldn't have got the mug!)
-{% img img-polaroid /images/glasshousemug.jpg %}
+{% img img-thumbnail /images/glasshousemug.jpg %}
 
 So. Would I do it again? Yes. I'd hope for a cooler day (but realise I could
 get a warmer day). My goals of going longer in 2013 have been cut back - I may

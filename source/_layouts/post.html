@@ -8,7 +8,7 @@ single: true
   {% if page.sidebar != false and site.sidebar_posn == "left" %}
     {% include sidebar.html %}
   {% endif %}
-  <div class="{% if page.sidebar != false %}span8{% else %}span12{% endif %}">
+  <div class="{% if page.sidebar != false %}col-sm-8{% else %}col-sm-12{% endif %}">
     {% include article.html %}
     <footer>
       <p class="meta">
