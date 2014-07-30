@@ -351,4 +351,11 @@ holding you up &mdash; and so our team did well on that score. I've struggled
 with how to be honest without being unduly negative so I hope I haven't 
 been unnecessarily harsh.
 
+One more thing &mdash; after doing the Kokoda Challenge I was curious to 
+learn more about the Kokoda campaign during World War II. I ended up
+reading Peter FitzSimons' Kokoda, a well written account well describing
+the horrors of war and the triumph of mateship and hard graft in spite of
+inadequate leadership with tragic unnecessary wastes of young lives.
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/168229172/embed/d838aa46cea246f6f7f14fd91eba92f3a658c6f4'></iframe>
+
