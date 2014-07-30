@@ -122,7 +122,8 @@ Just before the 3 hour mark we finally got to what was officially called the
 before us (in fact in between us and the other men's BTR team).  Here, Shayne
 and Josh, Danica and Lachlon could look after us for a bit. Already I needed
 some blister patches for the soles of my feet, but other than that I just
-needed to calm down a little.
+needed to calm down a little. Brad tried another of many attempts to persuade
+Loz that we should all run together, as this was a team event...
 
 After the first checkpoint came the first monster hill up to Beechmont
 plateau.  Like a lot of the hills in this race, it really was just a matter of
@@ -349,7 +350,9 @@ I'd do running with a team as there are so many things that can go wrong
 &mdash; you can end up being the slow one, there could be someone undertrained
 holding you up &mdash; and so our team did well on that score. I've struggled
 with how to be honest without being unduly negative so I hope I haven't 
-been unnecessarily harsh.
+been unnecessarily harsh. I'm sure Loz is a lovely bloke, and he probably
+just needs to either learn a bit more about what being in a team is about,
+or find a team that better suits his abilities, or just enter solo events!
 
 One more thing &mdash; after doing the Kokoda Challenge I was curious to 
 learn more about the Kokoda campaign during World War II. I ended up
