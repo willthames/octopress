@@ -64,10 +64,13 @@ race registration, slowly getting out of warm clothes into the starting kit,
 chatting to fellow runners &mdash; it was early but it didn't drag too badly,
 and we were soon ready to head to the start. After a few photo opportunities
 (including one where I was the only 1 of 12 across the three Brisbane Trail
-Runner teams not wearing a BTR top).  {% fancybox start
-/images/kokoda_not_quite_warmed_up.jpg "Not fully warmed (Danica)" %} {%
-fancybox start /images/kokoda_ready_to_go.jpg "The team ready to go (Danica)"
-%} {% fancybox start /images/kokoda_the_first_km.jpg "Setting out on the run
+Runner teams not wearing a BTR top).
+
+{% fancybox start
+/images/kokoda_not_quite_warmed_up.jpg "Not fully warmed (Danica)" %} 
+{% fancybox start /images/kokoda_ready_to_go.jpg "The team ready to go (Danica)"
+%} 
+{% fancybox start /images/kokoda_the_first_km.jpg "Setting out on the run
 (Danica)" %}
 
 The start itself was preceded by an explanation of the previous day's events
@@ -136,9 +139,11 @@ expected Loz to be waiting for us (he'd long since left us for dust) but we
 didn't see him until we actually summitted the hill. 
 
 {% fancybox cp2 /images/kokoda_setting_up_crew.jpg "Our crew setting up the
-first manned checkpoint (Lachlon)" %} {% fancybox cp2
+first manned checkpoint (Lachlon)" %} 
+{% fancybox cp2
 /images/kokoda_will_arriving_at_18km.jpg "Coming into the 18km checkpoint
-(Lachlon)" %} {% fancybox cp2 /images/kokoda_team_kokoda.jpg "What our team
+(Lachlon)" %} 
+{% fancybox cp2 /images/kokoda_team_kokoda.jpg "What our team
 looked like most of the time (Will)" %}
 
 
@@ -178,7 +183,8 @@ this time &mdash; the blister plasters I put on at 24km lasted the remaining
 82km). 
 
 {% fancybox cp5 /images/kokoda_ready_to_ship_out_at_38km.jpg "Ready to leave
-at 38km (Danica)" %} {% fancybox cp5 /images/kokoda_will_at_60k.jpg "Looking
+at 38km (Danica)" %} 
+{% fancybox cp5 /images/kokoda_will_at_60k.jpg "Looking
 fresh after 60km (Danica)" %}
 
 From this checkpoint it was a couple of kms across fields and muddy bog and
@@ -353,3 +359,5 @@ I'd do running with a team as there are so many things that can go wrong
 holding you up &mdash; and so our team did well on that score. I've struggled
 with how to be honest without being unduly negative so I hope I haven't 
 been unnecessarily harsh.
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/168229172/embed/d838aa46cea246f6f7f14fd91eba92f3a658c6f4'></iframe>
