@@ -26,29 +26,30 @@ Face training.
 
 Unfortunately at the same time I did TNF, Aaron developed a very nasty knee
 problem that prevented him running for weeks. While thankfully he's slowly
-easing back into running he had to withdraw &mdash; and I was the logical
+easing back into running he had to withdraw, and I was the logical
 substitute &mdash; I was trained for the distance (I'd eased off a little
 after TNF but otherwise fighting fit) and keen to join the team.
 
 Over the last few weeks of training, I too managed to pick up a knee niggle.
 I took a few days off running and went to see a physio, who told me that it
 would be tough even with a good knee, but that he'd strap it, recommend some
-rolling and stretching exercises and could go back to running. He suggested I
+rolling and stretching exercises, and I could go back to running. He suggested I
 might want my strapping changed before the race, but as I could barely get up
 the step onto the train when the strapping was first on as it was so tight, I
-figured I'd just use the slightly less tight strapping.
+figured I'd just keep the strapping I had.
 
 So, I was strapped, trained, prepared for the course and ready to go. And at
 5pm on the day before the race, they changed the course. Rather than a nice
 gentle 20km followed by some tough hills and then a really tough last 50km, we
-were to do the last 50km as an out and back. Double trouble.
+were to do the last 50km as an out and back. Double trouble. Additionally,
+the route change added an extra 3km to make it 99km in total.
 
 Due to a bush fire on the route we were taking, the organisers nearly had to
 cancel the race &mdash; apparently at 3pm on the day before the race, there
 was no race. By 5pm they had worked with the Rural Fire Service, police, State
 Emergency Service to agree on a safe course.
 
-Some frantic rescheduling of pickup times occured, but by 9pm I was fully
+Some frantic rescheduling of pickup times occurred, but by 9pm I was fully
 packed, prepared, and ready for bed, at which point I had a great sleep until
 about 2:30am (before a 4:10am alarm call) and then tossed and turned trying to
 get to the right temperature and having vivid dreams that it was 7am and I'd
@@ -59,15 +60,16 @@ coffee, breakfast, and was ready when Shayne arrived at 4:45 as planned.  A
 quick trip to pick up Kerno and Brad and then we were off to Nerang velodrome
 for the new race start. 
 
-We passed the time for the next couple of hours sorting various bits out -
+We passed the time for the next couple of hours sorting various bits out &mdash;
 race registration, slowly getting out of warm clothes into the starting kit,
 chatting to fellow runners &mdash; it was early but it didn't drag too badly,
-and we were soon ready to head to the start. After a few photo opportunities
+and we were soon ready to head to the start, after a few photo opportunities
 (including one where I was the only 1 of 12 across the three Brisbane Trail
 Runner teams not wearing a BTR top).
 
 {% fancybox start /images/kokoda_not_quite_warmed_up.jpg "Not fully warmed (Danica)" %} 
 {% fancybox start /images/kokoda_ready_to_go.jpg "The team ready to go (Danica)" %} 
+{% fancybox start /images/kokoda_12_btrs.png "The 3 official Brisbane Trail Runners teams" %}
 {% fancybox start /images/kokoda_the_first_km.jpg "Setting out on the run (Danica)" %}
 
 The start itself was preceded by an explanation of the previous day's events
@@ -123,7 +125,7 @@ before us (in fact in between us and the other men's BTR team).  Here, Shayne
 and Josh, Danica and Lachlon could look after us for a bit. Already I needed
 some blister patches for the soles of my feet, but other than that I just
 needed to calm down a little. Brad tried another of many attempts to persuade
-Loz that we should all run together, as this was a team event...
+Loz that we should all run together, as this was a team event&hellip;
 
 After the first checkpoint came the first monster hill up to Beechmont
 plateau.  Like a lot of the hills in this race, it really was just a matter of
@@ -140,13 +142,10 @@ didn't see him until we actually summitted the hill.
 {% fancybox cp2 /images/kokoda_will_arriving_at_18km.jpg "Coming into the 18km checkpoint (Lachlon)" %} 
 {% fancybox cp2 /images/kokoda_team_kokoda.jpg "What our team looked like most of the time (Will)" %}
 
-
-Phil was struggling with downhills by this point, so at least we had some
-flats and the downhills we did have were gentle, so were able to at least put
+Phil was struggling with downhills by this point, but here at least we had some
+flats and the downhills we did have were gentle, so were able to put
 in some runs for a while before we got to Syd Duncan Park and took some more
 refreshments on board.
-
-[gate picture]
 
 From Syd Duncan it was a long, slow descent into army land. It was dusty,
 loose, rocky and at one point I was attempting to use my poles as if skiing
@@ -158,7 +157,7 @@ Once into army land it was pretty cushy &mdash; the creek crossings were very
 easy &mdash; while it was possible to get wet feet if not careful, you could
 walk through most of the creeks that weren't dry and the water wouldn't go
 above the sole of the shoe. At the 40km point we got to the army land
-checkpoint (three ways) where they kindly pointed out to us it was only 5km to
+checkpoint (Three Ways) where they kindly pointed out to us it was only 5km to
 the next checkpoint. I'd seen the profile though. So, 5km, uphill.
 
 Again, another long uphill trudge. No real dramas, we were all capable of good
@@ -180,8 +179,8 @@ this time &mdash; the blister plasters I put on at 24km lasted the remaining
 {% fancybox cp5 /images/kokoda_will_at_60k.jpg "Looking fresh after 60km (Danica)" %}
 
 From this checkpoint it was a couple of kms across fields and muddy bog and
-then it was down, down and down. We passed some very tired looking teams at
-this point &mdash; two of a group of teenage girls seemed to have given up at
+then it was down, down and down. We passed some very tired looking teams 
+&mdash; two of a group of teenage girls seemed to have given up at
 this point. They were actually very near the top, relative to the rest of the
 climb, but I didn't realise just how much down we had still to go.  From a
 profile point of view, it was obvious &mdash; we had to lose 500m of altitude
@@ -191,13 +190,14 @@ any more we just took our time, and I used my poles for balance, or to push me
 around corners, or to take load off my legs, anything to make it slightly
 easier to descend. 
 
-Finally at the bottom it was from there an easy run across the bridge over the
+Finally at the bottom it was an easy run across the bridge over the
 Nerang River and then to the next checkpoint at Numinbah Environment Centre.
 We didn't stop here long &mdash; check in and then onwards. Uphill and then
-downhill, pretty unmemorable now, until finally we got to some pipes under the
-road to Numinbah Hall. Here we did take a while &mdash; Phil got a very
-effective looking massage, I fully topped up with water (and just drank a
-couple of cups of water, realising quite how thirsty I was. Also had a bite of
+downhill, pretty unmemorable now, until finally we got to the pipes 
+that took us under the
+road to Numinbah Hall. Here we did stop a while &mdash; Phil got a very
+effective looking massage, I fully topped up with water (and drank a
+couple of cups, realising quite how thirsty I was). Also had a bite of
 my chocolate chip bar, and put my fluoro top and light on at last, as the sun
 had already set and it was only going to get darker from here. We were on the
 return path after 55.5km and 9 hours. 
@@ -225,7 +225,8 @@ At the bog bridge, there were so many people coming the other way that in the
 end Phil just shouted across the bridge to stop and let us through.
 Graciously the other direction paused as we came through (they really didn't
 have any other way of knowing, the traffic was that bad), even apologising for
-holding us up in our running kit. And then it was the trek across the fields
+holding us up in our cooler running kit while they were decked out for
+walking over night. And then it was the trek across the fields
 again and we were at the checkpoint.
 
 Dinner! I had made chicken soup a few weeks before in preparation, and
@@ -233,12 +234,12 @@ macaroni the night before, and it turns out that chicken soup and macaroni was
 exactly what I wanted. I also made sure I had all the colder weather gear I
 was likely to need, as Danica was reporting that the temperature could go down
 to 1C. I hadn't brought a spare top but Phil lent me one so that I had a dry
-top, and also put on my arm warmers.  It was at this point that I lost it a
+one, and also put on my arm warmers.  It was at this point that I lost it a
 little with Loz &mdash; he was ready to leave and I was just slowly getting my
 stuff together to get going and he said something that made me just tell him
-to shut the f*** up.  Apparently Danica was surprised even to hear my swear,
-but even though me swearing is not that rare, me swearing at people is rarer,
-a sign that I was not feeling 100% happy with Loz.
+to shut the f*** up.  Apparently Danica was surprised even to hear me swear,
+but even though me swearing is not that rare, me swearing at people is.
+I was not feeling 100% happy with Loz.
 
 The plateau from the 60km checkpoint was probably the last running we did
 until the end, as Phil's knees just weren't feeling good on the flat or the
@@ -280,14 +281,14 @@ they needed us to make up the numbers (a team of two can't continue on its own
 until it has joined with another group). In the end they didn't need us and
 beat us to the line by an hour. 
 
-And then more Dinner! After eating I went a bit crazy at this point and put on
+And then more dinner! After eating I went a bit crazy and put on
 a few too many warm clothes (something I'd been ribbing Brad for doing earlier
 on in the day). At the checkpoint I had on my buff to cover my ears and neck,
 and also put my gloves on. Soon after we took off I was boiling and it was
 time to remove gloves and arm warmers and I got back to a sensible
 temperature. One last reasonable size hill to cover and we were back to the
 10km point where it had all gone so wrong earlier in the day. From there
-through the next checkpoint, up the ludicrously steep hill where Phil had
+through the 8km to go checkpoint, up the ludicrously steep hill where Phil had
 stopped at the top early on, and then up and mostly down for the next 8km. 
 
 At 18km to go we'd hoped to go sub 20 hours, which was still possible if we
@@ -295,9 +296,10 @@ could do 6km/h for the next three hours. And I have to say we made a valiant
 effort &mdash; we powered up the hills but just weren't making the necessary
 time up on the flats or downhills to quite do sub 20.
 
-The last checkpoint at 4km to go was a surprise, but at least that told us
-what we had left to do. But that still meant nearly an hour of travelling. At
-the time it felt ridiculous how much hard work we'd have to do &mdash; another
+The final checkpoint at 4km to go was a surprise, as there hadn't been one
+on the way out. We checked in and out and they confirmed that we had just
+4km left to do. But that still meant nearly an hour of travelling. At
+the time it felt ridiculous how much hard work we had to do &mdash; another
 hour still! 
 
 Slowly but surely we got to the end. Tiredness was seeping in (it had gone 4am
@@ -342,23 +344,20 @@ we all succeeded in beating the Kokoda Challenge.
 
 Our crew was awesome. Shayne and Josh, Danica and Lachlon, you sacrificed so
 much time, energy and resources into looking after us. Shayne even helped sort
-peoples feet out. I hope if I ever crew, I do somewhere near as good a job.
+people's feet out. I hope if I ever crew, I do somewhere near as good a job.
 
 On reflection, our team did quite well. Only 34% of teams finished as a four.
 We came 23rd out of 375 teams doing the full "96km". I was always worried how
 I'd do running with a team as there are so many things that can go wrong
 &mdash; you can end up being the slow one, there could be someone undertrained
-holding you up &mdash; and so our team did well on that score. I've struggled
-with how to be honest without being unduly negative so I hope I haven't 
-been unnecessarily harsh. I'm sure Loz is a lovely bloke, and he probably
-just needs to either learn a bit more about what being in a team is about,
-or find a team that better suits his abilities, or just enter solo events!
+holding you up &mdash; and so our team did well on that score. 
 
 One more thing &mdash; after doing the Kokoda Challenge I was curious to 
 learn more about the Kokoda campaign during World War II. I ended up
-reading Peter FitzSimons' Kokoda, a well written account well describing
-the horrors of war and the triumph of mateship and hard graft in spite of
-inadequate leadership with tragic unnecessary wastes of young lives.
+reading Peter FitzSimons' Kokoda, a well written account describing
+the horrors of war with tragic unnecessary wastes of young lives, 
+and the triumph of mateship and hard graft in spite of
+inadequate leadership.
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/168229172/embed/d838aa46cea246f6f7f14fd91eba92f3a658c6f4'></iframe>
-
+My GPS died at 102km &mdash; we did 105km in the end.
