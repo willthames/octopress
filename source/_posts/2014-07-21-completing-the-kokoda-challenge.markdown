@@ -127,6 +127,10 @@ some blister patches for the soles of my feet, but other than that I just
 needed to calm down a little. Brad tried another of many attempts to persuade
 Loz that we should all run together, as this was a team event&hellip;
 
+{% fancybox cp2 /images/kokoda_setting_up_crew.jpg "Our crew setting up the first manned checkpoint (Lachlon)" %} 
+{% fancybox cp2 /images/kokoda_will_arriving_at_18km.jpg "Coming into the 18km checkpoint (Lachlon)" %} 
+{% fancybox cp2 /images/kokoda_team_kokoda.jpg "What our team looked like most of the time (Will)" %}
+
 After the first checkpoint came the first monster hill up to Beechmont
 plateau.  Like a lot of the hills in this race, it really was just a matter of
 putting one pole in front of another (I was so grateful for my poles &mdash; I
@@ -138,9 +142,9 @@ slowly but surely. We got out of the worst of the hill onto the road, where we
 expected Loz to be waiting for us (he'd long since left us for dust) but we
 didn't see him until we actually summitted the hill. 
 
-{% fancybox cp2 /images/kokoda_setting_up_crew.jpg "Our crew setting up the first manned checkpoint (Lachlon)" %} 
-{% fancybox cp2 /images/kokoda_will_arriving_at_18km.jpg "Coming into the 18km checkpoint (Lachlon)" %} 
-{% fancybox cp2 /images/kokoda_team_kokoda.jpg "What our team looked like most of the time (Will)" %}
+{% fancybox beechmont /images/kokoda_will_downhill.jpg "Will descending (SOK Images)" %}
+{% fancybox beechmont /images/kokoda_gate.jpg "The four of us on the Beechmont Plateau (SOK Images)" %}
+{% fancybox beechmont /images/kokoda_beechmont_4.jpg "The four of us running together the Beechmont Plateau (SOK Images)" %}
 
 Phil was struggling with downhills by this point, but here at least we had some
 flats and the downhills we did have were gentle, so were able to put
@@ -176,6 +180,7 @@ this time &mdash; the blister plasters I put on at 24km lasted the remaining
 82km). 
 
 {% fancybox cp5 /images/kokoda_ready_to_ship_out_at_38km.jpg "Ready to leave at 38km (Danica)" %} 
+{% fancybox cp5 /images/kokoda_49_5.jpg "Leaving Numinbah Hall halfway point (SOK Images)" %}
 {% fancybox cp5 /images/kokoda_will_at_60k.jpg "Looking fresh after 60km (Danica)" %}
 
 From this checkpoint it was a couple of kms across fields and muddy bog and
@@ -315,6 +320,8 @@ finishing dog tags. We had our photos taken, and caught up with other friends
 who'd finished, including new friends like Elmer, a guy I'd never met but had
 bumped into as our teams crossed paths a few times before they'd gone on to
 finish in 19:15, a fantastic time. 
+
+{% fancybox finish /images/kokoda_finish.jpg "Finished! (SOK Images)" %}
 
 But our team was whole. Much as many times during the day I felt like stabbing
 Loz with a pole, I was happy that we'd finished as a four.  We didn't make our
