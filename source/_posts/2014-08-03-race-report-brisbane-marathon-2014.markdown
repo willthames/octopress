@@ -23,7 +23,7 @@ until 100m from my car park, there wasn't much to worry about, and I was heading
 by 05:00. While driving in I had some energy drink, as last year I really suffered from low energy 
 at around the 25km mark. 
 
-By Brisbane standards, this morning was pretty cool (8&degrees;C) &mdash; I definitely appreciated 
+By Brisbane standards, this morning was pretty cool (8&deg;C) &mdash; I definitely appreciated 
 wearing long sleeves and
 long legs over my race gear. By 05:30 I was feeling warm enough to get out of the outer layers,
 put on my race number (which because it was transferred late, said "David"), apply sufficient 
@@ -42,8 +42,8 @@ getting a good start for the first 3km, but it wasn't to be. In the end I just w
 was a little slower than I'd have liked but at that stage of the race there's no point going off 
 too fast. 
 
-I had a great run. I was running 4:45/km pace for a lot of the first half once I got past the
-bottlenecks. My goal was to limit my exertion so that I would feel strong at the 32km point when
+I had a great run. Once I got past the bottlenecks I was running 4:45/km pace for a lot of the 
+first half. My goal was to limit my exertion so that I would feel strong at the 32km point when
 I think the marathon really starts. Conditions were almost ideal: cool, slightly overcast, slight
 breeze (ok, quite windy at times, but never too bad).
 
@@ -72,8 +72,8 @@ maintain 4:50/km for the remainder of the race. I must have got my calculations 
 didn't go much slower than 4:55/km &mdash; perhaps I'd forgotten the final 200m. Sums *are* hard when
 you're running!
 
-The last 6km in particular, once I'd crossed the river at the Go Between Bridge again, and headed
-on the out and back to Toowong. The temperature was rising and there is no shade at that point. 
+The last 6km were particularly tough, after I'd crossed the river at the Go Between Bridge again, 
+and headed on the out and back to Toowong. The temperature was rising and there is no shade. 
 My knee wasn't too bad but I wonder if my gait was slightly out of alignment as I could feel 
 tightness in my hips. In the end I just carried on, trying to maintain as much pace as possible.
 I dropped below 5:00/km once in the race, but once I got to the 41km mark I knew I had about
@@ -87,7 +87,8 @@ very often in Queensland!
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/174569870/embed/4312a3cd75aae82cd34a4b847f5506c390ff7f39'></iframe>
 
-I didn't quite make the top 10% but I was 62 out of 515. <a href="http://www.racetecresults.com/MyResults.aspx?CId=16287&RId=84&EId=1&AId=113914">Full splits and results for me</a>
+I didn't quite make the top 10% but I was 62 out of 515. <a href="http://www.racetecresults.com/MyResults.aspx?CId=16287&RId=84&EId=1&AId=113914">Full splits and results for me</a>.
 
 Oh, and you know you're an ultrarunner when someone asks you "so tomorrow's race is 100km?" and 
-you reply "oh no, it's only 42km"
+you reply "oh no, it's only 42km".
+
