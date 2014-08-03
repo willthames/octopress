@@ -30,7 +30,8 @@ put on my race number (which because it was transferred late, said "David"), app
 anti-chafing strategies and sunscreen and drop off my bag.
 
 On the way to the start I bumped into Dean and Vanessa who run Sandgate Parkrun. I'd picked up 
-their race kits the previous day as they were busy filming Sesame Street (how cool is that?)
+their race kits the previous day as they were 
+<a href="http://www.brisbanetimes.com.au/entertainment/tv-and-radio/brisbane-filmmaker-opens-sesame-street-doors-20140802-zzt16.html">busy filming Sesame Street</a> (how cool is that?)
 so stopped to say hello and see how they were feeling. By the time we were heading to the
 start it was 05:50.
 
