@@ -1,0 +1,82 @@
+---
+layout: post
+title: "2015 so far"
+date: 2015-04-21 22:00
+comments: true
+categories: 
+---
+2015 started well with some great weeks on the trails in January
+and early February, with Mount Glorious race recces, 
+a very wet Mount Coot-tha run, the
+Brisbane Trail Running Series race at Bunyaville and more.
+
+Unfortunately my running took a two week hiatus just while I was hitting
+my stride as I somehow cricked my neck in my sleep, and then made it
+worse the following evening by going trail running up Chainsaw. By the
+end of that run I could barely move my neck. Several physio trips later
+and a couple of weeks off running and it finally eased up ready for more
+running.
+
+The postponement of the Mount Glorious race was ideal for me --- I was
+marginal for the original date as I was only just getting back into
+running but two weeks later and I was ready to go, and got a 3 minute
+PB. I went to Mapleton for the Sunshine Coast Hinterland Great Walk run,
+32 hard kms up some very long climbs, but was good to be able to run
+with Brad again who had just come back from injury and did very well
+to finish the 32km.
+
+The following weekend looked like it might be another good one as I
+was in good form for the Twilight Half. Alas, it was not to be, as
+torrential downpours flooded the course and a severe thunderstorm loomed
+ominously enough for the race organisers to stop the race before
+the second lap. I found out it was a 10km race at the 9km mark, and
+the last km is my third ever fastest according to Strava. I was a
+minute off my 10km PB, and well on course to beat my half marathon
+PB by around three minutes. The conditions were ideal for me other
+than the flooding!
+
+My Ultra Trail de 4 Massifs training plan remains on track --- I've only
+missed one planned run so far and I'm comfortable with how I'm doing.
+My two biggest sessions have been a back to back weekend containing Pinnacles
+race recce followed by 26km at Mount Coot-tha, and yesterday's
+Numinbah to Pollys 50km race, of which more to come. I'll also provide
+more details on my training plan in a future post.
+
+<table class="table">
+<thead>
+<tr>
+<th> Month          </th>
+<th style="text-align:center;"> Distance </th>
+<th style="text-align:center;"> Time  </th>
+<th style="text-align:center;"> Ascent </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> January        </td>
+<td style="text-align:center;"> 204.6km  </td>
+<td style="text-align:center;"> 24:10 </td>
+<td style="text-align:center;"> 5555m  </td>
+</tr>
+<tr>
+<td> February       </td>
+<td style="text-align:center;"> 137.3km  </td>
+<td style="text-align:center;"> 16:10 </td>
+<td style="text-align:center;"> 4064m  </td>
+</tr>
+<tr>
+<td> March          </td>
+<td style="text-align:center;"> 260.0km  </td>
+<td style="text-align:center;"> 29:40 </td>
+<td style="text-align:center;"> 5531m  </td>
+</tr>
+<tr>
+<td> April (so far) </td>
+<td style="text-align:center;"> 216.5km  </td>
+<td style="text-align:center;"> 24:45 </td>
+<td style="text-align:center;"> 6339m  </td>
+</tr>
+</tbody>
+</table>
+
+</div>
