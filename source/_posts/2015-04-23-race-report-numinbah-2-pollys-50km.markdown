@@ -35,10 +35,10 @@ up before picking up the pace.
 There was a runner in front of me who clearly wasn't too sure she was on the
 right route and kept asking if we were going the right way. I reasoned that
 as long as I could see my helpful runner behind me, I probably was, but it
-was a relief when we finally saw some signs that were definitely part of the
-route! The sign pointed uphill for 900m, so it was a trudge to the checkpoint.
-On the way up the hill we introduced ourselves and Hiroku and I would run
-fairly near each other for the remainder of the race. While we ran together
+was a relief when we finally saw some signs to the checkpoint pointing up the
+hill. On the way up the hill we introduced ourselves --- it was great
+to meet Hiroku from Japan, and she and I would run fairly near each other
+for the remainder of the race.  While we ran together
 we talked about our race goals, and I hope she has a great time at TNF 100!
 At the checkpoint I refilled one of my bottles with tailwind for the next
 5km section.
