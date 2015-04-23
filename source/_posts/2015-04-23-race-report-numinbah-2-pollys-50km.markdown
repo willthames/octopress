@@ -94,6 +94,8 @@ race I've ever done --- and it might have been a contender for the slowest
 had it actually been 50km. However, it was also a very tough race, with
 around 2500m of elevation, so it's not too surprising.
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/288203724/embed/82e234022d00d1e7f67abad40c1af7a99adaff84'></iframe>
+
 Ultra Trail des 4 Massifs will be approximately four times worse --- the
 struggle will be pacing each section right so that I can keep doing it.
 This race was definitely an eye opener for how much work I still have to
