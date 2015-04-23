@@ -22,7 +22,8 @@ back out on the course as Brad and Shayne arrived.
 
 The second section was a little trickier to navigate as I had noone to follow.
 I'd heard the race briefing which helped a little, and so when I saw the green
-markers for the Gold Coast Hinterland Great Walk that helped a little.
+markers for the Gold Coast Hinterland Great Walk that reassured me that
+I was on course.
 After that I headed in a straight line. I wasn't 100% sure of myself at the
 first water crossing, but the person behind me assured me I was going the right
 way and that it was difficult to go wrong. And he was right. I kept running.
