@@ -145,5 +145,5 @@ warm, and even then wrapping myself in the blanket.
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/375825361/embed/d7ffc89a52aca370301646a45c802678f70d1c6e'></iframe>
 
-Continued in part two...
+Continued in [part two](/article/2015/08/23/ut3m-race-report-day-two/)...
 
